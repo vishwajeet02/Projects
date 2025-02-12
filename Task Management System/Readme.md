@@ -38,4 +38,62 @@ Before you begin, ensure you have the following installed:
     python -m venv venv
     ```
 
-3.
+3. Activate the virtual environment:
+    - On Windows:
+        ```bash
+        .\venv\Scripts\activate
+        ```
+    - On macOS/Linux:
+        ```bash
+        source venv/bin/activate
+        ```
+
+4. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. Run the application:
+    ```bash
+    streamlit run app.py
+    ```
+
+After running the command, your web browser should open with the Task Management System interface.
+
+## Usage
+
+Once the app is up and running:
+
+- **Create Tasks**: Fill in the task details (ID, title, and description) and click "Create Task".
+- **Complete Tasks**: Click the button to complete the next task, which will move it from the queue to the history.
+- **View History**: See the list of completed tasks along with their details and completion time.
+
+You can modify the code in `task_service.py` and `app.py` to suit your needs or enhance functionality. The app uses Streamlit, so it’s easy to make UI improvements.
+
+## Contributing
+
+We welcome contributions to this project! To get started:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature-name`).
+6. Open a pull request to the main branch.
+
+### Guidelines
+
+- Please make sure your code is well-commented and easy to understand.
+- Follow PEP 8 guidelines for Python code style.
+- Add tests if applicable.
+- Ensure that your feature works correctly and doesn’t break any existing functionality.
+
+## Contact Information
+
+If you have any questions or suggestions, feel free to reach out!
+
+- **Email**: vishwajeet25200012@gmail.com
+
+---
+
+Thank you for checking out the **Task Management System**! We hope it helps you learn about task management systems and data structures while providing a useful tool for personal or collaborative projects.
