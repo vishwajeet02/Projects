@@ -5,7 +5,7 @@ def main():
     task_service = Task_Service()
     user_service = User_Service()
 
-    user_Service.add_user(123,"vishwa","vishwa02@gmail.com")
+    user_service.add_user(123,"vishwa","vishwa02@gmail.com")
 
     task_service.create_task(1,"Teach dsa basic","tech from Scratch")
     task_service.create_task(2,"Teach Advcne dsa","teach from Scratch")

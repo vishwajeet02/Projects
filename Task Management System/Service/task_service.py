@@ -1,4 +1,7 @@
-from models import Task,Queue,Stack,Graph
+from models.Task import Task
+from models.Queue import Queue
+from models.Stack import Stack
+
 
 class Task_Service:
     def __init__(self):
@@ -13,7 +16,7 @@ class Task_Service:
         return task
 
 
-    def complete_task():
+    def complete_task(self):
         if not self.task_queue.is_empty():
             task = self.task_queue.dequeue()
             self.task_history.push(task)
