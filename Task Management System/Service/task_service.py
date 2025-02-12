@@ -9,12 +9,16 @@ class Task_Service:
     def create_task(self,id,title,description):
         task = Task(id,title,description)
         self.tasks.append(task)
-        self.task_queue.put(task)
+        self.task_queue.enqueue(task)
         return task
 
 
     def complete_task():
         if not self.task_queue.is_empty():
-            task = 
+            task = self.task_queue.dequeue()
+            self.task_history.push(task)
+            return task.id,task.title,task.description
+        return None
 
-    def get_task_history():
+    def get_task_history(self):
+        return self.task_history
