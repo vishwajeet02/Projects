@@ -16,9 +16,6 @@ Welcome to the Sugarcane Production Analysis project! This repository houses a J
     - [Correlation Analysis](#correlation-analysis)
     - [Analysis by Continent](#analysis-by-continent)
   - [Key Insights](#key-insights)
-  - [Getting Started](#getting-started)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Project Overview
 
@@ -80,27 +77,3 @@ This analysis reveals:
 - Unexpected trends, like outliers in per-capita production.
 
 For a deeper dive, explore the Jupyter Notebook!
-
-## Getting Started
-
-1. Clone the Repository:
-   git clone https://github.com/your-username/sugarcane-production-analysis.git
-2. Install Dependencies: Run the pip install command above.
-3. Launch the Notebook:
-   jupyter notebook Sugarcane_Production_Analysis.ipynb
-4. Explore: Run the cells to see the analysis unfold!
-
-## Contributing
-
-Contributions are welcome! If you’d like to enhance the analysis, fix bugs, or add new visualizations:
-1. Fork this repository.
-2. Create a branch (git checkout -b feature/your-idea).
-3. Commit your changes (git commit -m "Add cool feature").
-4. Push to your branch (git push origin feature/your-idea).
-5. Open a pull request.
-
-Suggestions? Open an issue to discuss!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share it.
