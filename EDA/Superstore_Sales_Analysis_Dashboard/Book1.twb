@@ -1630,7 +1630,7 @@
             </zone>
             <zone h='92499' id='7' param='horz' type-v2='layout-flow' w='98834' x='583' y='6448'>
               <zone h='92499' id='5' type-v2='layout-basic' w='87181' x='583' y='6448'>
-                <zone h='46249' id='3' name='Overall Sales' show-title='false' w='43590' x='583' y='6448'>
+                <zone h='46249' id='3' name='Overall Sales' show-title='false' w='43589' x='583' y='6448'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1638,7 +1638,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='46250' id='11' name='Sales Vs Profit' show-title='false' w='41805' x='583' y='52697'>
+                <zone h='46250' id='11' name='Sales Vs Profit' show-title='false' w='41804' x='583' y='52697'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1646,7 +1646,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='46250' id='15' name='Discount Distribution' show-title='false' w='21923' x='42388' y='52697'>
+                <zone h='46250' id='15' name='Discount Distribution' show-title='false' w='21923' x='42387' y='52697'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1654,7 +1654,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='46250' id='16' name='Profit Distribution' show-title='false' w='23453' x='64311' y='52697'>
+                <zone h='46250' id='16' name='Profit Distribution' show-title='false' w='23454' x='64310' y='52697'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1662,7 +1662,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='24210' id='17' name='Sales Info' w='43591' x='44173' y='6448'>
+                <zone h='24210' id='17' name='Sales Info' w='43592' x='44172' y='6448'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1670,7 +1670,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='22039' id='19' name='Profit Info' show-title='false' w='21795' x='44173' y='30658'>
+                <zone h='22039' id='19' name='Profit Info' show-title='false' w='21795' x='44172' y='30658'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1678,7 +1678,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='22039' id='20' name='Discount Info' show-title='false' w='21796' x='65968' y='30658'>
+                <zone h='22039' id='20' name='Discount Info' show-title='false' w='21797' x='65967' y='30658'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1779,8 +1779,8 @@
           </layout-options>
           <size maxheight='2350' minheight='2350' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='28' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97894' id='27' param='vert' type-v2='layout-flow' w='98834' x='583' y='1053'>
+            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97894' id='29' param='vert' type-v2='layout-flow' w='98834' x='583' y='1053'>
                 <zone h='5395' id='23' type-v2='title' w='98834' x='583' y='1053'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1799,7 +1799,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46249' id='3' is-fixed='true' name='Overall Sales' show-title='false' w='43590' x='583' y='6448'>
+                <zone fixed-size='280' h='46249' id='3' is-fixed='true' name='Overall Sales' show-title='false' w='43589' x='583' y='6448'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1817,7 +1817,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='201' h='24210' id='17' is-fixed='true' name='Sales Info' w='43591' x='44173' y='6448'>
+                <zone fixed-size='201' h='24210' id='17' is-fixed='true' name='Sales Info' w='43592' x='44172' y='6448'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1835,7 +1835,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='181' h='22039' id='19' is-fixed='true' name='Profit Info' show-title='false' w='21795' x='44173' y='30658'>
+                <zone fixed-size='181' h='22039' id='19' is-fixed='true' name='Profit Info' show-title='false' w='21795' x='44172' y='30658'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1844,7 +1844,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='181' h='22039' id='20' is-fixed='true' name='Discount Info' show-title='false' w='21796' x='65968' y='30658'>
+                <zone fixed-size='181' h='22039' id='20' is-fixed='true' name='Discount Info' show-title='false' w='21797' x='65967' y='30658'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1862,7 +1862,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46250' id='11' is-fixed='true' name='Sales Vs Profit' show-title='false' w='41805' x='583' y='52697'>
+                <zone fixed-size='280' h='46250' id='11' is-fixed='true' name='Sales Vs Profit' show-title='false' w='41804' x='583' y='52697'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1880,7 +1880,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46250' id='15' is-fixed='true' name='Discount Distribution' show-title='false' w='21923' x='42388' y='52697'>
+                <zone fixed-size='280' h='46250' id='15' is-fixed='true' name='Discount Distribution' show-title='false' w='21923' x='42387' y='52697'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1889,7 +1889,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46250' id='16' is-fixed='true' name='Profit Distribution' show-title='false' w='23453' x='64311' y='52697'>
+                <zone fixed-size='280' h='46250' id='16' is-fixed='true' name='Profit Distribution' show-title='false' w='23454' x='64310' y='52697'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
