@@ -771,6 +771,120 @@
       </table>
       <simple-id uuid='{A052FE0F-25C3-4474-845E-BDA62B5648F0}' />
     </worksheet>
+    <worksheet name='Confirmed Cases'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='COVID-19' name='federated.04qnif21j6k0ii1c1kpie1hl12cz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.04qnif21j6k0ii1c1kpie1hl12cz'>
+            <column caption='Case Type' datatype='string' name='[Case_Type]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Cases]' role='measure' type='quantitative' />
+            <column datatype='date' name='[Date]' role='dimension' type='ordinal' />
+            <column-instance column='[Case_Type]' derivation='None' name='[none:Case_Type:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Date]' derivation='None' name='[none:Date:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Cases]' derivation='Sum' name='[sum:Cases:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.04qnif21j6k0ii1c1kpie1hl12cz].[none:Case_Type:nk]'>
+            <groupfilter function='member' level='[none:Case_Type:nk]' member='&quot;Confirmed&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.04qnif21j6k0ii1c1kpie1hl12cz].[none:Case_Type:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <text column='[federated.04qnif21j6k0ii1c1kpie1hl12cz].[sum:Cases:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run bold='true' fontsize='11'>Confirmed Cases</run>
+                <run>Æ&#10;</run>
+                <run fontsize='11'><![CDATA[<[federated.04qnif21j6k0ii1c1kpie1hl12cz].[sum:Cases:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='size' value='0.82359117269515991' />
+                <format attr='mark-color' value='#f1a598' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+        <pages>
+          <column>[federated.04qnif21j6k0ii1c1kpie1hl12cz].[none:Date:ok]</column>
+        </pages>
+      </table>
+      <simple-id uuid='{3C6BCA19-1799-49B1-A684-7295F9F3F07F}' />
+    </worksheet>
+    <worksheet name='Death Cases'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='COVID-19' name='federated.04qnif21j6k0ii1c1kpie1hl12cz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.04qnif21j6k0ii1c1kpie1hl12cz'>
+            <column caption='Case Type' datatype='string' name='[Case_Type]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Cases]' role='measure' type='quantitative' />
+            <column datatype='date' name='[Date]' role='dimension' type='ordinal' />
+            <column-instance column='[Case_Type]' derivation='None' name='[none:Case_Type:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Date]' derivation='None' name='[none:Date:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Cases]' derivation='Sum' name='[sum:Cases:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.04qnif21j6k0ii1c1kpie1hl12cz].[none:Case_Type:nk]'>
+            <groupfilter function='member' level='[none:Case_Type:nk]' member='&quot;Deaths&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.04qnif21j6k0ii1c1kpie1hl12cz].[none:Case_Type:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <text column='[federated.04qnif21j6k0ii1c1kpie1hl12cz].[sum:Cases:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run bold='true' fontsize='11'>Death Cases</run>
+                <run>Æ&#10;</run>
+                <run fontsize='11'><![CDATA[<[federated.04qnif21j6k0ii1c1kpie1hl12cz].[sum:Cases:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='size' value='0.82359117269515991' />
+                <format attr='mark-color' value='#e15759' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+        <pages>
+          <column>[federated.04qnif21j6k0ii1c1kpie1hl12cz].[none:Date:ok]</column>
+        </pages>
+      </table>
+      <simple-id uuid='{B046A104-849A-48AE-9758-BE02F0559DED}' />
+    </worksheet>
     <worksheet name='Overall_Cases_ForEachCountry'>
       <table>
         <view>
@@ -1226,7 +1340,7 @@
       </viewpoint>
       <simple-id uuid='{9A22FDB2-AB62-4DCC-B081-F1827235B393}' />
     </window>
-    <window class='worksheet' maximized='true' name='Top 10 Countries'>
+    <window class='worksheet' name='Top 10 Countries'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1268,6 +1382,90 @@
         </highlight>
       </viewpoint>
       <simple-id uuid='{14C42AF9-5EDE-442C-B7AF-840503E3D08B}' />
+    </window>
+    <window class='worksheet' name='Death Cases'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card looped='1' type='currpage' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <current-page>
+          <multibucket>
+            <bucket>#2020-06-04#</bucket>
+          </multibucket>
+        </current-page>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.04qnif21j6k0ii1c1kpie1hl12cz].[none:Case_Type:nk]</field>
+            <field>[federated.04qnif21j6k0ii1c1kpie1hl12cz].[yr:Date:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{73520CC8-FC00-4B38-A1F0-3628BE0FDE03}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Confirmed Cases'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card looped='1' type='currpage' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <current-page>
+          <multibucket>
+            <bucket>#2020-02-09#</bucket>
+          </multibucket>
+        </current-page>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.04qnif21j6k0ii1c1kpie1hl12cz].[none:Case_Type:nk]</field>
+            <field>[federated.04qnif21j6k0ii1c1kpie1hl12cz].[yr:Date:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{BB30E55F-13ED-469C-B778-668C26A57C74}' />
     </window>
   </windows>
   <thumbnails>
@@ -1382,6 +1580,89 @@
       wf4ecpkEiURym3dJsTjzgNnlMuX8Et2jx8hqJSbmNjh96g0MPXgNqY4uNF1npL8byzLpH+xl
       4u4Deob20tXZSTwaJf4n95l8OR1ahNsrtQkkxIsmARChJgEQoSYBEKEmARChJgEQoSYBEKEm
       ARChJgEQoSYBEKEmARChJgEQofb/AQSL33cUe2V6AAAAAElFTkSuQmCC
+    </thumbnail>
+    <thumbnail height='192' name='Confirmed Cases' width='192'>
+      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
+      gq7OEDLzoQAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Death Cases' width='192'>
+      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
     </thumbnail>
     <thumbnail height='192' name='Overall_Cases_ForEachCountry' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94
