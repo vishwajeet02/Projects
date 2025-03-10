@@ -1,0 +1,1001 @@
+typ,price_e,price_i,tax,Quantity,no_of_reviews,upc
+Poetry,51.77,51.77,0.00,In stock (22 available),0,a897fe39b1053632
+Historical Fiction,53.74,53.74,0.00,In stock (20 available),0,90fa61229261140a
+Fiction,50.10,50.10,0.00,In stock (20 available),0,6957f44c3847a760
+Mystery,47.82,47.82,0.00,In stock (20 available),0,e00eb4fd7b871a48
+History,54.23,54.23,0.00,In stock (20 available),0,4165285e1663650f
+Young Adult,22.65,22.65,0.00,In stock (19 available),0,f77dbf2323deb740
+Business,33.34,33.34,0.00,In stock (19 available),0,2597b5a345f45e1b
+Default,17.93,17.93,0.00,In stock (19 available),0,e72a5dfc7e9267b2
+Default,22.60,22.60,0.00,In stock (19 available),0,e10e1e165dc8be4a
+Poetry,52.15,52.15,0.00,In stock (19 available),0,1dfe412b8ac00530
+Default,13.99,13.99,0.00,In stock (19 available),0,0312262ecafa5a40
+Poetry,20.66,20.66,0.00,In stock (19 available),0,30a7f60cd76ca58c
+Young Adult,17.46,17.46,0.00,In stock (19 available),0,ce6396b0f23f6ecc
+Sequential Art,52.29,52.29,0.00,In stock (19 available),0,3b1c02bac2a429e6
+Music,35.02,35.02,0.00,In stock (19 available),0,a34ba96d4081e6a4
+Music,57.25,57.25,0.00,In stock (19 available),0,deda3e61b9514b83
+Poetry,23.88,23.88,0.00,In stock (19 available),0,feb7cc7701ecf901
+Science Fiction,37.59,37.59,0.00,In stock (19 available),0,e30f54cea9b38190
+Politics,51.33,51.33,0.00,In stock (19 available),0,a18a4f574854aced
+Travel,45.17,45.17,0.00,In stock (19 available),0,a22124811bfa8350
+Thriller,12.84,12.84,0.00,In stock (19 available),0,23356462d1320d61
+Music,37.32,37.32,0.00,In stock (19 available),0,327f68a59745c102
+Food and Drink,30.52,30.52,0.00,In stock (19 available),0,5674a18a29a43ced
+Romance,25.27,25.27,0.00,In stock (19 available),0,c2e46a2ee3b4a322
+Romance,34.53,34.53,0.00,In stock (19 available),0,00bfed9e18bb36f3
+Childrens,54.64,54.64,0.00,In stock (19 available),0,9528d0948525bf5f
+Default,22.50,22.50,0.00,In stock (19 available),0,c7d160c2c0de586f
+Default,53.13,53.13,0.00,In stock (19 available),0,904208d6aa64b655
+Nonfiction,40.30,40.30,0.00,In stock (18 available),0,4c28def39d850cdf
+Art,44.18,44.18,0.00,In stock (18 available),0,ccd9ffa25efabdea
+Spirituality,17.66,17.66,0.00,In stock (18 available),0,6258a1f6a6dcfe50
+Nonfiction,31.05,31.05,0.00,In stock (18 available),0,3c039985229453bf
+Thriller,23.82,23.82,0.00,In stock (18 available),0,5dada2b7be26bd03
+Childrens,36.89,36.89,0.00,In stock (18 available),0,9f6568e9c95f60b0
+Philosophy,15.94,15.94,0.00,In stock (18 available),0,6be3beb0793a53e7
+Default,33.29,33.29,0.00,In stock (18 available),0,668fe56b17cfcd4f
+Default,18.02,18.02,0.00,In stock (18 available),0,094b269567e1c300
+Mystery,19.63,19.63,0.00,In stock (18 available),0,19ed25f4641d5efd
+Thriller,52.22,52.22,0.00,In stock (18 available),0,be5cc846f45496fb
+Poetry,33.63,33.63,0.00,In stock (17 available),0,55f9da0c5eea2e10
+Poetry,57.31,57.31,0.00,In stock (17 available),0,b4fd5943413e089a
+Nonfiction,26.41,26.41,0.00,In stock (17 available),0,c8f7f0cb1abb9cac
+Fiction,47.61,47.61,0.00,In stock (17 available),0,b12b89017878a60d
+Nonfiction,23.11,23.11,0.00,In stock (17 available),0,c27f6e1f185b0383
+New Adult,45.07,45.07,0.00,In stock (16 available),0,acddfeab2a407640
+Contemporary,31.77,31.77,0.00,In stock (16 available),0,3ecb690d1542c568
+Fiction,50.27,50.27,0.00,In stock (16 available),0,8d455c7539795d2a
+Poetry,14.27,14.27,0.00,In stock (16 available),0,657fe5ead67a7767
+Nonfiction,44.18,44.18,0.00,In stock (16 available),0,d170b5a0da46380e
+Fantasy,18.78,18.78,0.00,In stock (16 available),0,7ae099f3898e0209
+History,25.52,25.52,0.00,In stock (16 available),0,9a9d6e9bc555731e
+Sequential Art,16.28,16.28,0.00,In stock (16 available),0,09555be379ad9253
+Nonfiction,31.12,31.12,0.00,In stock (16 available),0,7858914fad68493c
+Sequential Art,19.49,19.49,0.00,In stock (16 available),0,51653ef291ab7ddc
+Fiction,17.27,17.27,0.00,In stock (16 available),0,709822d0b5bcb7f4
+Add a comment,19.09,19.09,0.00,In stock (16 available),0,4eed62cf5f8d8edf
+Childrens,56.13,56.13,0.00,In stock (16 available),0,b5ea0b5dabed25a8
+Food and Drink,56.41,56.41,0.00,In stock (16 available),0,142d767a56a9254d
+Mystery,56.50,56.50,0.00,In stock (16 available),0,5ee94540d0749ea0
+Young Adult,45.22,45.22,0.00,In stock (16 available),0,cedf82b5086e4691
+Sequential Art,38.16,38.16,0.00,In stock (16 available),0,7d385d34d12e60ff
+Fiction,54.11,54.11,0.00,In stock (16 available),0,d01ac97e2b8947c2
+Science,42.96,42.96,0.00,In stock (16 available),0,aadee1c326d286e3
+Add a comment,23.89,23.89,0.00,In stock (16 available),0,31075275518532d7
+Nonfiction,16.77,16.77,0.00,In stock (16 available),0,0da9aa9d24677fc0
+Default,20.59,20.59,0.00,In stock (16 available),0,8c9e6bf2467d740d
+Nonfiction,37.13,37.13,0.00,In stock (16 available),0,acd86a5426e21ca0
+Nonfiction,56.06,56.06,0.00,In stock (16 available),0,a30b270e25489e5c
+Philosophy,58.11,58.11,0.00,In stock (16 available),0,bd261725b99f5983
+Health,49.05,49.05,0.00,In stock (16 available),0,43c6a960757cf559
+Add a comment,40.76,40.76,0.00,In stock (16 available),0,80cfab6bcff3a244
+History,19.73,19.73,0.00,In stock (16 available),0,a3d2a4250807f1e9
+Spirituality,32.24,32.24,0.00,In stock (16 available),0,7d6d2a6c0276f81b
+Nonfiction,41.83,41.83,0.00,In stock (16 available),0,87b0615b6e1f4d7b
+Default,39.58,39.58,0.00,In stock (16 available),0,e6af5bf1163c1151
+Horror,39.25,39.25,0.00,In stock (16 available),0,6f78a0d744c35456
+Fantasy,25.02,25.02,0.00,In stock (16 available),0,c849f0b2f5d6a742
+Sequential Art,51.04,51.04,0.00,In stock (16 available),0,53a3d11bb568cc8b
+Nonfiction,19.83,19.83,0.00,In stock (16 available),0,d7310206583a54b6
+Sequential Art,50.40,50.40,0.00,In stock (16 available),0,c82a3e358c773c73
+Sequential Art,13.61,13.61,0.00,In stock (16 available),0,0fa6dceead7ce47a
+Fantasy,13.34,13.34,0.00,In stock (16 available),0,0e691eda369f4e09
+Sequential Art,18.97,18.97,0.00,In stock (16 available),0,e80f8e518b300dfe
+History,36.28,36.28,0.00,In stock (16 available),0,7392c0032f92d816
+Sequential Art,10.16,10.16,0.00,In stock (16 available),0,9429b4d59c537af5
+Sequential Art,15.44,15.44,0.00,In stock (16 available),0,889139b8e9c4cb36
+Sequential Art,48.41,48.41,0.00,In stock (16 available),0,11809b1d323b3057
+Self Help,46.35,46.35,0.00,In stock (16 available),0,9ffa38d3b832433a
+Add a comment,14.07,14.07,0.00,In stock (16 available),0,b757c0c361e689ce
+Young Adult,14.86,14.86,0.00,In stock (16 available),0,3c346ab1e76ae1f6
+Food and Drink,33.37,33.37,0.00,In stock (16 available),0,784bc2279baa878d
+Fantasy,56.40,56.40,0.00,In stock (16 available),0,fa9610a50a1bf149
+Food and Drink,14.02,14.02,0.00,In stock (16 available),0,72f9d5be3472d34e
+Sequential Art,46.91,46.91,0.00,In stock (16 available),0,460089f796fb3f82
+Sequential Art,45.61,45.61,0.00,In stock (16 available),0,b6ee99bcf06fc91f
+Sequential Art,19.92,19.92,0.00,In stock (16 available),0,57e5a4d515c8ce44
+Food and Drink,40.11,40.11,0.00,In stock (16 available),0,7b75cc7f223791f4
+Add a comment,53.90,53.90,0.00,In stock (16 available),0,228f74b74f3a08ae
+Science Fiction,35.67,35.67,0.00,In stock (16 available),0,18ad3ed896c7ce05
+Nonfiction,22.00,22.00,0.00,In stock (16 available),0,b136b1b180ca753a
+Science,57.36,57.36,0.00,In stock (16 available),0,e4f74c16de34d440
+Sequential Art,29.17,29.17,0.00,In stock (16 available),0,8d4eefad7a2b3915
+Sequential Art,54.63,54.63,0.00,In stock (16 available),0,1c89ae5bb804e4de
+Self Help,46.03,46.03,0.00,In stock (16 available),0,a6f99b9e687f9d46
+Romance,33.97,33.97,0.00,In stock (16 available),0,2a97cffe61c3c4c7
+Sequential Art,22.11,22.11,0.00,In stock (16 available),0,f2df3bb043a8abb0
+Historical Fiction,29.69,29.69,0.00,In stock (16 available),0,9beb96a2300109d7
+Romance,15.97,15.97,0.00,In stock (16 available),0,9e28048cea8d41f7
+Romance,21.96,21.96,0.00,In stock (16 available),0,7add3f8e49ec0826
+Nonfiction,54.35,54.35,0.00,In stock (16 available),0,311c0dd0e354a33e
+Religion,37.97,37.97,0.00,In stock (16 available),0,fce19f9b4a943f22
+Sequential Art,51.99,51.99,0.00,In stock (16 available),0,09b6cc87e62c2c58
+Fantasy,43.29,43.29,0.00,In stock (16 available),0,7267864328ae8b9d
+Sequential Art,36.72,36.72,0.00,In stock (16 available),0,8754c83ab2a7ae71
+Sequential Art,17.08,17.08,0.00,In stock (16 available),0,7b599c8bfcdd8d30
+Nonfiction,29.14,29.14,0.00,In stock (16 available),0,bee3672891cca906
+Young Adult,28.81,28.81,0.00,In stock (16 available),0,5ceb951f629700a2
+Default,49.46,49.46,0.00,In stock (16 available),0,74baabfc8fd84b38
+Sequential Art,37.92,37.92,0.00,In stock (16 available),0,bdf415fd484ea8a7
+Fantasy,28.09,28.09,0.00,In stock (16 available),0,6d5300b2d8f37e07
+Nonfiction,30.81,30.81,0.00,In stock (16 available),0,38d45839cb1c83c1
+Default,42.95,42.95,0.00,In stock (16 available),0,70ed59f194b3c556
+Default,56.76,56.76,0.00,In stock (16 available),0,8a380641491d43ed
+Mystery,16.64,16.64,0.00,In stock (16 available),0,f733e8c19d40ec2e
+Historical Fiction,55.53,55.53,0.00,In stock (16 available),0,3a6fb983e2554023
+Young Adult,28.13,28.13,0.00,In stock (16 available),0,842790dfaa937484
+Fantasy,52.37,52.37,0.00,In stock (16 available),0,01d2001ac1e6f8a3
+Christian,54.00,54.00,0.00,In stock (16 available),0,e4ac92d89b946781
+Religion,21.87,21.87,0.00,In stock (15 available),0,796c87ddbbaaf8c5
+Science Fiction,43.30,43.30,0.00,In stock (15 available),0,9270575728a13a61
+Fiction,21.04,21.04,0.00,In stock (15 available),0,b8736690cf263a3c
+Default,41.60,41.60,0.00,In stock (15 available),0,d7d6d50c1e3d0b81
+Fantasy,35.07,35.07,0.00,In stock (15 available),0,590a9cccf7db9f7d
+History,59.64,59.64,0.00,In stock (15 available),0,de3f25248ba0789f
+Default,52.72,52.72,0.00,In stock (15 available),0,bc2a85fd35fdc7bd
+Childrens,58.08,58.08,0.00,In stock (15 available),0,37c0cb19713d8dda
+Romance,24.12,24.12,0.00,In stock (15 available),0,623e1a180426039b
+Fiction,42.15,42.15,0.00,In stock (15 available),0,fd3a622648667296
+Business,12.61,12.61,0.00,In stock (15 available),0,3bebf34ee9330cbd
+Philosophy,17.44,17.44,0.00,In stock (15 available),0,f5a92cff83897d48
+Sequential Art,33.14,33.14,0.00,In stock (15 available),0,d6361d16212664ed
+Default,27.37,27.37,0.00,In stock (15 available),0,961f18db4f138211
+Fiction,51.36,51.36,0.00,In stock (15 available),0,0651062381f0636a
+Default,36.00,36.00,0.00,In stock (15 available),0,e98a4efa85070c2f
+Science Fiction,10.65,10.65,0.00,In stock (15 available),0,790ef197c8f236f5
+Nonfiction,43.54,43.54,0.00,In stock (15 available),0,8ec14b1576cb7cb5
+Nonfiction,38.21,38.21,0.00,In stock (15 available),0,209adad1015af86f
+Food and Drink,37.34,37.34,0.00,In stock (15 available),0,e4c7f3487d17fd42
+Mystery,44.10,44.10,0.00,In stock (15 available),0,c7b5183f4d1d4efe
+New Adult,43.29,43.29,0.00,In stock (15 available),0,99ff4cc6491e8f5c
+New Adult,55.85,55.85,0.00,In stock (15 available),0,08db62f24627e71f
+Food and Drink,37.60,37.60,0.00,In stock (15 available),0,e28e330cbdf01126
+Crime,10.97,10.97,0.00,In stock (15 available),0,abeafe151a587d3b
+Default,41.82,41.82,0.00,In stock (15 available),0,eac1a180047ad54e
+Historical Fiction,36.95,36.95,0.00,In stock (15 available),0,9287e238d7c3b06e
+Fantasy,44.28,44.28,0.00,In stock (15 available),0,2dbb7ec08cdd7f3c
+Default,55.02,55.02,0.00,In stock (15 available),0,e956d67c9bcc5809
+Nonfiction,17.24,17.24,0.00,In stock (15 available),0,42d0d7c92b75fc1c
+Default,23.15,23.15,0.00,In stock (15 available),0,d6670dfe3e7b42bd
+Food and Drink,41.25,41.25,0.00,In stock (15 available),0,96a38e7c813d8f1d
+Default,32.00,32.00,0.00,In stock (15 available),0,efc3768127714ec3
+Nonfiction,38.49,38.49,0.00,In stock (15 available),0,dd047728de72ad62
+Default,33.34,33.34,0.00,In stock (15 available),0,e7469e22b5bfb3e7
+Autobiography,10.93,10.93,0.00,In stock (15 available),0,c99761a700ade23f
+Business,27.55,27.55,0.00,In stock (15 available),0,56e4f9eab2e8e674
+Romance,55.99,55.99,0.00,In stock (15 available),0,203b7f94b7d6115f
+Romance,16.24,16.24,0.00,In stock (15 available),0,ca71e72655bece85
+Science Fiction,26.12,26.12,0.00,In stock (15 available),0,2a70769cdc6eb8b8
+Nonfiction,12.23,12.23,0.00,In stock (15 available),0,1b33663ad7b95fd8
+Business,23.99,23.99,0.00,In stock (15 available),0,0e0dcc3339602b28
+Add a comment,29.06,29.06,0.00,In stock (15 available),0,0c27e6c3744fc14b
+Default,20.27,20.27,0.00,In stock (15 available),0,ad04ad9fc179fc5d
+Young Adult,43.55,43.55,0.00,In stock (15 available),0,1c929cfd16b71907
+Default,36.94,36.94,0.00,In stock (15 available),0,e656e280bc8edd56
+Christian Fiction,20.47,20.47,0.00,In stock (15 available),0,b53db2271c9624f7
+Default,41.06,41.06,0.00,In stock (15 available),0,d9c643fa1fc57bdb
+Poetry,14.19,14.19,0.00,In stock (15 available),0,31001a1210623bd4
+Young Adult,38.28,38.28,0.00,In stock (15 available),0,50b8f80311b31ede
+Poetry,41.05,41.05,0.00,In stock (15 available),0,cfeb1e1e0e695b58
+Historical Fiction,30.25,30.25,0.00,In stock (15 available),0,a40723994f715420
+Add a comment,28.26,28.26,0.00,In stock (15 available),0,caf4fe9311f1dc59
+Default,10.76,10.76,0.00,In stock (15 available),0,af96613fdd793a3c
+Biography,16.85,16.85,0.00,In stock (15 available),0,d69dd8dac66f9f84
+Childrens,13.47,13.47,0.00,In stock (15 available),0,4aa03792b50f0b22
+Young Adult,48.56,48.56,0.00,In stock (15 available),0,ba54932df84e8cea
+Default,19.15,19.15,0.00,In stock (15 available),0,c1afd71fc86bf682
+Womens Fiction,57.36,57.36,0.00,In stock (15 available),0,fd8585283fc7d2d7
+Fantasy,42.98,42.98,0.00,In stock (15 available),0,4ce91d31c1e57c33
+Default,22.16,22.16,0.00,In stock (15 available),0,d163dd6c352fbcd2
+Travel,49.43,49.43,0.00,In stock (15 available),0,ce60436f52c5ee68
+Young Adult,29.99,29.99,0.00,In stock (15 available),0,116a2fdc9a45bab0
+Horror,21.36,21.36,0.00,In stock (15 available),0,8585760646e3aa2a
+Default,29.00,29.00,0.00,In stock (15 available),0,2f88b08bf0a0e367
+Fiction,53.53,53.53,0.00,In stock (15 available),0,edb3097e71330040
+Sequential Art,41.62,41.62,0.00,In stock (15 available),0,65d034adf80834b7
+Default,54.59,54.59,0.00,In stock (15 available),0,29c0025455f8c585
+Default,34.95,34.95,0.00,In stock (15 available),0,6ffb36aaeff1c81e
+Default,37.72,37.72,0.00,In stock (15 available),0,f6d967cdadc6fbd9
+Romance,35.61,35.61,0.00,In stock (15 available),0,3a11bb962ff45b78
+Food and Drink,42.16,42.16,0.00,In stock (15 available),0,46c1530d7546ea6d
+Erotica,19.19,19.19,0.00,In stock (15 available),0,88c21fcd38e2486e
+Nonfiction,19.43,19.43,0.00,In stock (15 available),0,3b9a3b4624b7fd6d
+Christian Fiction,49.46,49.46,0.00,In stock (15 available),0,a57b1dcbd6849222
+Spirituality,37.80,37.80,0.00,In stock (15 available),0,513271dadc1322ae
+Nonfiction,30.80,30.80,0.00,In stock (15 available),0,1f329c2e7d7de8bd
+Nonfiction,27.43,27.43,0.00,In stock (15 available),0,919e7cb2269a25d2
+Default,11.11,11.11,0.00,In stock (15 available),0,3f69e667a67e54d9
+Sequential Art,36.50,36.50,0.00,In stock (15 available),0,7edc0527cf782e19
+Sequential Art,15.38,15.38,0.00,In stock (15 available),0,47271d8e08b5d31c
+Default,15.48,15.48,0.00,In stock (15 available),0,05f7c6d9a4e582d3
+Default,46.82,46.82,0.00,In stock (15 available),0,d24b829be2ca81c4
+Default,18.46,18.46,0.00,In stock (15 available),0,7ebfa6c1bee69e1e
+Cultural,36.58,36.58,0.00,In stock (15 available),0,bb8245f52c7cce8f
+Default,50.54,50.54,0.00,In stock (15 available),0,ffd54178acc9a6a5
+Nonfiction,12.51,12.51,0.00,In stock (15 available),0,d195e7f4ed697350
+History,24.70,24.70,0.00,In stock (14 available),0,dd5bfa6cc2c0ecc3
+Thriller,43.61,43.61,0.00,In stock (14 available),0,024387ca4cafd5cc
+Sequential Art,37.34,37.34,0.00,In stock (14 available),0,047097293bb4d1c0
+Young Adult,14.36,14.36,0.00,In stock (14 available),0,3fb15ace50d6142b
+Politics,52.65,52.65,0.00,In stock (14 available),0,2b5054a4192e9b06
+Nonfiction,38.20,38.20,0.00,In stock (14 available),0,44a10f1ac8ce822e
+Nonfiction,19.60,19.60,0.00,In stock (14 available),0,6fd646a334e6e133
+Sequential Art,53.90,53.90,0.00,In stock (14 available),0,92275cedf6d8ee15
+Childrens,12.96,12.96,0.00,In stock (14 available),0,6a31307a81e8f3a8
+Default,37.10,37.10,0.00,In stock (14 available),0,4a1debca3135ff37
+Young Adult,46.31,46.31,0.00,In stock (14 available),0,aba2db9afb1469c7
+Default,45.95,45.95,0.00,In stock (14 available),0,76c84daa539426e2
+Childrens,22.08,22.08,0.00,In stock (14 available),0,1d6443ffba9dfd80
+Sequential Art,25.38,25.38,0.00,In stock (14 available),0,6e44bcbeac7f4360
+Young Adult,27.12,27.12,0.00,In stock (14 available),0,f0f38174a7e689a3
+Nonfiction,43.04,43.04,0.00,In stock (14 available),0,34c0d7c4ee5650af
+Default,56.80,56.80,0.00,In stock (14 available),0,08b2f71d93836313
+Add a comment,25.91,25.91,0.00,In stock (14 available),0,6875c5657661b2fb
+Romance,32.61,32.61,0.00,In stock (14 available),0,c5cb9f885d8b3621
+Fiction,27.88,27.88,0.00,In stock (14 available),0,e9906e2f0d189745
+Fiction,52.67,52.67,0.00,In stock (14 available),0,081305e6df719dff
+Fantasy,46.02,46.02,0.00,In stock (14 available),0,1528279aec1f3dce
+Default,44.48,44.48,0.00,In stock (14 available),0,00c4543ec6bd25b4
+Add a comment,37.40,37.40,0.00,In stock (14 available),0,e88fb1c9397cfb27
+Default,54.04,54.04,0.00,In stock (14 available),0,012094e90a4b908d
+Default,16.88,16.88,0.00,In stock (14 available),0,6bdd909329435e80
+Historical Fiction,28.08,28.08,0.00,In stock (14 available),0,52cf2a5933ec5d8f
+Psychology,10.40,10.40,0.00,In stock (14 available),0,4e812d32d64e2431
+Humor,44.07,44.07,0.00,In stock (14 available),0,f21effc079a2b38a
+Horror,23.40,23.40,0.00,In stock (14 available),0,2d88a31f325dfd3b
+Nonfiction,17.43,17.43,0.00,In stock (14 available),0,4881cc53f6c8892f
+Mystery,54.21,54.21,0.00,In stock (14 available),0,3bc89353f7e3a3cc
+Add a comment,40.67,40.67,0.00,In stock (14 available),0,f72f61ad6a5f12ed
+Fantasy,52.26,52.26,0.00,In stock (14 available),0,992974ba6a0536ea
+Food and Drink,28.77,28.77,0.00,In stock (14 available),0,ddc8340dabc8641b
+Thriller,13.82,13.82,0.00,In stock (14 available),0,847935fc68707426
+Fiction,25.85,25.85,0.00,In stock (14 available),0,a86972014275e072
+Add a comment,48.78,48.78,0.00,In stock (14 available),0,3d76bc83c6b644c9
+Young Adult,35.35,35.35,0.00,In stock (14 available),0,6edacfd1f8ebb9eb
+Fantasy,44.73,44.73,0.00,In stock (14 available),0,dc6f688b82e42a5b
+Nonfiction,15.77,15.77,0.00,In stock (14 available),0,923831a05c9f91f7
+Thriller,39.24,39.24,0.00,In stock (14 available),0,1b8187fa4bf6ab05
+Mystery,13.92,13.92,0.00,In stock (14 available),0,0c7b9cf2b7662b65
+Mystery,10.69,10.69,0.00,In stock (14 available),0,2d1e337aaf341858
+Fiction,45.21,45.21,0.00,In stock (14 available),0,2c04320e110a14a3
+Nonfiction,45.58,45.58,0.00,In stock (14 available),0,4c8b7540409da4ac
+Sequential Art,11.89,11.89,0.00,In stock (14 available),0,ac8e3949d284e9a9
+Fiction,26.41,26.41,0.00,In stock (14 available),0,fe44cc816576c652
+Default,39.50,39.50,0.00,In stock (14 available),0,95019eac1c0a052f
+Science,44.74,44.74,0.00,In stock (14 available),0,3edcccc4f341fb1a
+Contemporary,52.79,52.79,0.00,In stock (14 available),0,a278db6b2b09cf9f
+Sequential Art,35.43,35.43,0.00,In stock (14 available),0,394f6d30cafc3edb
+Fiction,55.84,55.84,0.00,In stock (14 available),0,830fb3967c74866d
+Travel,48.87,48.87,0.00,In stock (14 available),0,f9705c362f070608
+Poetry,46.78,46.78,0.00,In stock (14 available),0,86cbddb61ea78bb7
+Sequential Art,47.82,47.82,0.00,In stock (14 available),0,85b2176b3b194030
+Sequential Art,25.48,25.48,0.00,In stock (14 available),0,31e2e2d9cca3778f
+Childrens,23.57,23.57,0.00,In stock (14 available),0,a6454e329f872b78
+Poetry,50.89,50.89,0.00,In stock (14 available),0,aa35446aab16017f
+Horror,10.56,10.56,0.00,In stock (14 available),0,af58a74e4b2a23a0
+Self Help,52.15,52.15,0.00,In stock (14 available),0,8ecf0356a3878811
+Childrens,18.28,18.28,0.00,In stock (14 available),0,e34efcc824685332
+Humor,11.83,11.83,0.00,In stock (14 available),0,02b74068fa98d8a4
+Nonfiction,21.95,21.95,0.00,In stock (14 available),0,132ec5e8c984adef
+Sequential Art,38.39,38.39,0.00,In stock (14 available),0,71e36f33981ddb74
+Fiction,41.56,41.56,0.00,In stock (14 available),0,727bf2b86b19ad88
+Fiction,24.48,24.48,0.00,In stock (14 available),0,cc82685d9f49bc2c
+Young Adult,40.36,40.36,0.00,In stock (14 available),0,137b0b2775701e11
+Fiction,28.90,28.90,0.00,In stock (14 available),0,caa2e5b3fb1b2d4c
+Add a comment,37.61,37.61,0.00,In stock (14 available),0,47d47155e89c8be7
+Business,38.85,38.85,0.00,In stock (14 available),0,b96fc7a0ea7d4b45
+Childrens,53.95,53.95,0.00,In stock (14 available),0,5b43cae640f2338a
+Default,49.83,49.83,0.00,In stock (14 available),0,d512871626a5e588
+Sequential Art,51.51,51.51,0.00,In stock (14 available),0,a10c7515834240f3
+Music,18.03,18.03,0.00,In stock (14 available),0,adb5f51c2e2ab13f
+Nonfiction,29.14,29.14,0.00,In stock (14 available),0,24af96df0bafb925
+Default,46.91,46.91,0.00,In stock (14 available),0,17fb5a88180f9904
+Nonfiction,26.79,26.79,0.00,In stock (14 available),0,1174156c4a0eccaa
+Default,16.28,16.28,0.00,In stock (14 available),0,708345c9897fd7c5
+Food and Drink,19.55,19.55,0.00,In stock (14 available),0,245e6bf08b8d2955
+Fantasy,29.65,29.65,0.00,In stock (14 available),0,2b52334fab158861
+Humor,25.98,25.98,0.00,In stock (14 available),0,b8a8ff84233f0570
+Fiction,10.60,10.60,0.00,In stock (14 available),0,aeff7b87a8e83ebb
+Humor,14.75,14.75,0.00,In stock (14 available),0,fbb21a2f71f4d981
+Default,47.02,47.02,0.00,In stock (14 available),0,6b6cd77fbc91b7a6
+Romance,28.82,28.82,0.00,In stock (14 available),0,0b165bd4b9f42fd5
+Nonfiction,58.79,58.79,0.00,In stock (14 available),0,afa829857f82f99e
+Default,10.23,10.23,0.00,In stock (14 available),0,f201f263d8c23f97
+Religion,30.03,30.03,0.00,In stock (14 available),0,eec424a84c9e4c68
+Historical Fiction,45.84,45.84,0.00,In stock (14 available),0,de4b403cb629a29f
+Art,49.05,49.05,0.00,In stock (14 available),0,9194ae88379dbf1a
+Nonfiction,15.06,15.06,0.00,In stock (14 available),0,ac4dde0d1be05de0
+Default,46.47,46.47,0.00,In stock (14 available),0,a2bd4ca82d908442
+Fiction,27.09,27.09,0.00,In stock (14 available),0,9eaf58b03a2779cc
+Sequential Art,57.62,57.62,0.00,In stock (14 available),0,27c5968fe43cc06e
+Fiction,14.39,14.39,0.00,In stock (14 available),0,1d6dd0c87d90fe92
+Nonfiction,51.75,51.75,0.00,In stock (14 available),0,a01f6d368ef64dc5
+Health,54.07,54.07,0.00,In stock (14 available),0,047dfa57ba0bf638
+Young Adult,55.35,55.35,0.00,In stock (14 available),0,ad2887ce04583910
+Horror,40.12,40.12,0.00,In stock (14 available),0,bf5de316a5e9a4ab
+Fantasy,37.51,37.51,0.00,In stock (14 available),0,3c6fe637a0180b01
+Fiction,11.21,11.21,0.00,In stock (14 available),0,94a958ea126cdcd5
+Default,36.58,36.58,0.00,In stock (14 available),0,0e94a089328be4bc
+Christian,47.72,47.72,0.00,In stock (14 available),0,4b9d9cfe0f435788
+Fiction,25.01,25.01,0.00,In stock (14 available),0,28cf0d1c51b491e5
+Add a comment,22.13,22.13,0.00,In stock (14 available),0,33a3e0e3ffde0dcd
+Default,44.14,44.14,0.00,In stock (14 available),0,42b0c50fc44140ec
+Fantasy,56.02,56.02,0.00,In stock (14 available),0,966ebb738e0f9d9b
+Default,11.23,11.23,0.00,In stock (14 available),0,1e264c677d4ee4ae
+Default,43.28,43.28,0.00,In stock (14 available),0,5b987e54ee72525c
+Default,47.27,47.27,0.00,In stock (14 available),0,8a6ec2761f91dad2
+Add a comment,20.29,20.29,0.00,In stock (14 available),0,bfbb54bc8cdeed2b
+Young Adult,50.83,50.83,0.00,In stock (14 available),0,e2e7b683b4c15b7d
+Default,31.85,31.85,0.00,In stock (14 available),0,1b0fc9f777cad045
+Default,46.23,46.23,0.00,In stock (14 available),0,5f22418922fa728b
+Nonfiction,37.80,37.80,0.00,In stock (14 available),0,16ef91b9d827859c
+Nonfiction,49.32,49.32,0.00,In stock (14 available),0,a80f66b254fe9eb3
+Sequential Art,32.01,32.01,0.00,In stock (14 available),0,bf68dcb5fad3cc8c
+Food and Drink,28.01,28.01,0.00,In stock (14 available),0,999912e63a3262ae
+Food and Drink,50.62,50.62,0.00,In stock (14 available),0,0e0da9192a025efc
+Fiction,17.03,17.03,0.00,In stock (14 available),0,9b65f676984c9f0c
+Sequential Art,48.80,48.80,0.00,In stock (14 available),0,ffdc825785c0ede8
+Young Adult,58.14,58.14,0.00,In stock (14 available),0,41164b8ac02a2c42
+Add a comment,34.20,34.20,0.00,In stock (14 available),0,1fbb5f786e53a0ce
+Default,51.48,51.48,0.00,In stock (14 available),0,ad41c24ccac0c7ce
+Historical,29.87,29.87,0.00,In stock (14 available),0,39861fc1c0845d15
+Sequential Art,10.90,10.90,0.00,In stock (14 available),0,5319169a72714c62
+Nonfiction,56.37,56.37,0.00,In stock (14 available),0,cf1aa2fc02a7d1e0
+Mystery,48.35,48.35,0.00,In stock (14 available),0,4416c474713ec1f5
+Mystery,16.73,16.73,0.00,In stock (14 available),0,63ee5bc46066a8a8
+Add a comment,56.48,56.48,0.00,In stock (14 available),0,c1379d3744f1dd2c
+Add a comment,40.79,40.79,0.00,In stock (14 available),0,1ad06aed9349af46
+Fiction,39.72,39.72,0.00,In stock (14 available),0,8682c03de6a844ff
+History,14.58,14.58,0.00,In stock (14 available),0,d5e0526e1ab682a3
+Add a comment,55.51,55.51,0.00,In stock (14 available),0,01a177623cce9596
+History,21.80,21.80,0.00,In stock (14 available),0,6e8e5626ac4d279e
+Default,13.33,13.33,0.00,In stock (13 available),0,ac5e0d3938caf686
+Fantasy,38.73,38.73,0.00,In stock (13 available),0,2f0213137a80d485
+Add a comment,37.86,37.86,0.00,In stock (13 available),0,44d97b6707dae3f0
+Food and Drink,11.53,11.53,0.00,In stock (13 available),0,8bbd7df8a324f31d
+Nonfiction,27.06,27.06,0.00,In stock (13 available),0,4be9d1910f8a4e80
+Womens Fiction,13.86,13.86,0.00,In stock (12 available),0,077b635ff2afc578
+Science,37.55,37.55,0.00,In stock (12 available),0,148715df5a02ea5e
+Fantasy,32.30,32.30,0.00,In stock (12 available),0,4a7a25be293ad678
+Fiction,46.29,46.29,0.00,In stock (12 available),0,ce1ae197ada2aec4
+Add a comment,26.20,26.20,0.00,In stock (12 available),0,14e44163678e24dc
+Nonfiction,33.26,33.26,0.00,In stock (12 available),0,582a21a1dbbef3cf
+Add a comment,59.15,59.15,0.00,In stock (12 available),0,3063c7e95d0bf76f
+Psychology,39.43,39.43,0.00,In stock (12 available),0,235fa48eeed11d82
+Young Adult,14.44,14.44,0.00,In stock (12 available),0,f732d7d18a91d2ba
+Fiction,56.54,56.54,0.00,In stock (12 available),0,c6ca293d4810e0d5
+Nonfiction,59.90,59.90,0.00,In stock (12 available),0,54fc03f1e1d355db
+Add a comment,11.88,11.88,0.00,In stock (12 available),0,64fd010bf8d15096
+Young Adult,48.05,48.05,0.00,In stock (12 available),0,b63ea3f7a57ae099
+Nonfiction,21.21,21.21,0.00,In stock (12 available),0,f40fea200e0c644f
+Default,49.67,49.67,0.00,In stock (12 available),0,ebf81a62e4798fd1
+Business,43.14,43.14,0.00,In stock (12 available),0,8976d9161c027142
+Horror,36.97,36.97,0.00,In stock (12 available),0,b8d7b3f5c7a95d65
+Mystery,26.80,26.80,0.00,In stock (12 available),0,abdd91e96515a617
+Add a comment,15.71,15.71,0.00,In stock (12 available),0,81ef44fcc5f454df
+Young Adult,54.65,54.65,0.00,In stock (12 available),0,db84624b151cbe06
+Mystery,54.36,54.36,0.00,In stock (12 available),0,e7fe3bf2768602cf
+Mystery,35.28,35.28,0.00,In stock (12 available),0,c039f5aceb093537
+Historical Fiction,20.55,20.55,0.00,In stock (12 available),0,9546d537fbf99eb6
+Default,58.32,58.32,0.00,In stock (12 available),0,b978c9852cde91bd
+Mystery,11.84,11.84,0.00,In stock (12 available),0,bddc6fd036eb6279
+Nonfiction,41.46,41.46,0.00,In stock (12 available),0,c6a29d6df8de968c
+Food and Drink,20.10,20.10,0.00,In stock (12 available),0,76319fe9d8b465a3
+Politics,56.86,56.86,0.00,In stock (12 available),0,3968e3fbf4695d7c
+Default,56.51,56.51,0.00,In stock (12 available),0,6983328f15506cb9
+Romance,40.83,40.83,0.00,In stock (12 available),0,df7e628bad5782b4
+Horror,48.64,48.64,0.00,In stock (12 available),0,d069086944f2e330
+Mystery,59.48,59.48,0.00,In stock (12 available),0,49b24c6a41b82bd2
+Historical Fiction,39.01,39.01,0.00,In stock (12 available),0,63343e287971bb0c
+Food and Drink,38.77,38.77,0.00,In stock (12 available),0,a4eef523118805ef
+Default,48.39,48.39,0.00,In stock (11 available),0,515cb8fcafb1ad98
+Mystery,27.26,27.26,0.00,In stock (11 available),0,6159d8b187831770
+Nonfiction,11.68,11.68,0.00,In stock (11 available),0,985991708c47003e
+Fiction,59.45,59.45,0.00,In stock (11 available),0,437d8dea9272d0a9
+Business,21.00,21.00,0.00,In stock (11 available),0,1c584f82a7a1c4f0
+Romance,53.98,53.98,0.00,In stock (11 available),0,cf62fa272b5f0fa3
+Science Fiction,48.74,48.74,0.00,In stock (11 available),0,f435aa99d864077d
+Biography,21.15,21.15,0.00,In stock (11 available),0,b06599b108e83f98
+Mystery,13.71,13.71,0.00,In stock (11 available),0,05a61a3bd8ca4149
+Romance,47.67,47.67,0.00,In stock (11 available),0,b783ce08802cd1d1
+Fiction,13.34,13.34,0.00,In stock (11 available),0,47e1b2d43f709995
+Nonfiction,16.89,16.89,0.00,In stock (11 available),0,28b2df9fadc9f07e
+Autobiography,27.18,27.18,0.00,In stock (11 available),0,5569c3fea112718e
+Historical Fiction,17.28,17.28,0.00,In stock (11 available),0,bade9943ee01b63f
+Fiction,45.14,45.14,0.00,In stock (11 available),0,469508882dfc1991
+Autobiography,40.85,40.85,0.00,In stock (11 available),0,825d6c44da3ca5a6
+Womens Fiction,20.46,20.46,0.00,In stock (11 available),0,20dc4f1ac5d4fd9c
+Psychology,56.27,56.27,0.00,In stock (11 available),0,ce8666d9b42fc9a0
+Womens Fiction,48.49,48.49,0.00,In stock (11 available),0,b5953ca1f8a0b8d7
+Young Adult,51.34,51.34,0.00,In stock (11 available),0,c65c25d990fc7025
+Fiction,16.34,16.34,0.00,In stock (11 available),0,f608c903c451f387
+Food and Drink,20.50,20.50,0.00,In stock (11 available),0,2587c54f5530dafc
+Business,21.59,21.59,0.00,In stock (11 available),0,816180220e8cb419
+Science Fiction,21.36,21.36,0.00,In stock (11 available),0,2c34f9432069b52b
+Default,20.88,20.88,0.00,In stock (11 available),0,bb967277222e689c
+Nonfiction,19.53,19.53,0.00,In stock (11 available),0,2b69dec0193511d9
+Romance,14.75,14.75,0.00,In stock (11 available),0,40c4bf520c17de54
+Fiction,48.48,48.48,0.00,In stock (11 available),0,a9d7b75461084a26
+Nonfiction,24.57,24.57,0.00,In stock (10 available),0,34669b2e9d407d3a
+Health,49.71,49.71,0.00,In stock (10 available),0,96aa539bfd4c07e2
+Add a comment,48.27,48.27,0.00,In stock (9 available),0,ab60e6f5a63e1cfb
+Add a comment,58.05,58.05,0.00,In stock (9 available),0,d1848064c54e01c7
+Default,58.87,58.87,0.00,In stock (9 available),0,4fd0a2a350f016e6
+Default,11.82,11.82,0.00,In stock (9 available),0,0967effecd292a86
+Fiction,28.03,28.03,0.00,In stock (9 available),0,903a9f8090104c2c
+Default,44.05,44.05,0.00,In stock (9 available),0,4b50fb1359ebf35d
+Food and Drink,12.34,12.34,0.00,In stock (9 available),0,65cfc9f242c2984a
+Default,16.68,16.68,0.00,In stock (9 available),0,33396269bcce166f
+Science,55.91,55.91,0.00,In stock (9 available),0,ca74f2e3c35a3e77
+Religion,24.57,24.57,0.00,In stock (9 available),0,3f25a2fedae191cc
+Health,52.98,52.98,0.00,In stock (9 available),0,f9c87ccb2bc4853b
+Young Adult,54.40,54.40,0.00,In stock (9 available),0,e77594ece9b9d1fe
+Novels,54.81,54.81,0.00,In stock (9 available),0,0e095ed785af7e43
+Childrens,25.08,25.08,0.00,In stock (9 available),0,913e7109cec0cb4c
+Default,10.41,10.41,0.00,In stock (9 available),0,ee6c67859d70186b
+Default,47.44,47.44,0.00,In stock (9 available),0,6baac632f7711e26
+Spirituality,20.91,20.91,0.00,In stock (9 available),0,8fab4c4f6f82a4ce
+Sequential Art,33.95,33.95,0.00,In stock (9 available),0,97187f5cf0385da3
+Humor,43.68,43.68,0.00,In stock (9 available),0,7e9068872228c474
+Young Adult,33.23,33.23,0.00,In stock (9 available),0,e845d305f64154f1
+Nonfiction,35.92,35.92,0.00,In stock (9 available),0,7186241e043de5dc
+Art,48.63,48.63,0.00,In stock (9 available),0,d6d9ffea95f2f8bf
+Fantasy,56.63,56.63,0.00,In stock (9 available),0,63d5f1651880dcea
+Add a comment,50.49,50.49,0.00,In stock (9 available),0,c181ca8eabe7d18c
+Add a comment,35.79,35.79,0.00,In stock (9 available),0,61cf7eb9d2cd8bb0
+Nonfiction,34.06,34.06,0.00,In stock (8 available),0,e77033ce559947f7
+Nonfiction,17.76,17.76,0.00,In stock (8 available),0,04f6c929888f4f11
+Nonfiction,39.36,39.36,0.00,In stock (8 available),0,b69c852e7e3956af
+Travel,36.94,36.94,0.00,In stock (8 available),0,1809259a5a5f1d8d
+Default,43.62,43.62,0.00,In stock (8 available),0,e0bdd79c7304ee8d
+Art,43.02,43.02,0.00,In stock (8 available),0,3eec766dda26fa64
+Nonfiction,28.45,28.45,0.00,In stock (8 available),0,5a0d2e9284004266
+Default,41.39,41.39,0.00,In stock (8 available),0,9afd00e81d6208e6
+Fiction,51.15,51.15,0.00,In stock (8 available),0,4f283dfcbeccc0d4
+Short Stories,35.88,35.88,0.00,In stock (8 available),0,1bba4b1ba23ed2d6
+Business,36.91,36.91,0.00,In stock (8 available),0,a2308a936e898d48
+Young Adult,28.93,28.93,0.00,In stock (8 available),0,331c26103d885cae
+Nonfiction,38.89,38.89,0.00,In stock (8 available),0,a2475a245c9907c4
+Suspense,58.33,58.33,0.00,In stock (8 available),0,e46a164cf310fd7d
+Christian Fiction,39.67,39.67,0.00,In stock (8 available),0,bee6e93e9976f4fa
+Sequential Art,14.10,14.10,0.00,In stock (8 available),0,aeb51dfbe8aeec59
+Nonfiction,21.82,21.82,0.00,In stock (8 available),0,52fc458ffc756faf
+Philosophy,54.21,54.21,0.00,In stock (8 available),0,d56d0710668bb39c
+Music,31.19,31.19,0.00,In stock (8 available),0,4a823d80aa30dbb0
+Poetry,53.64,53.64,0.00,In stock (8 available),0,c0fc0cd215ee1724
+Young Adult,36.39,36.39,0.00,In stock (8 available),0,9a7291b89bd5445c
+Fiction,58.54,58.54,0.00,In stock (8 available),0,bff270fe9c86a5a9
+Nonfiction,29.48,29.48,0.00,In stock (8 available),0,4729afff3bea0f0a
+Nonfiction,25.06,25.06,0.00,In stock (8 available),0,4d3a4c7b442a9a4e
+Nonfiction,12.55,12.55,0.00,In stock (8 available),0,044534b0b28b4e87
+Poetry,29.04,29.04,0.00,In stock (8 available),0,c44c5e1425475206
+Default,40.72,40.72,0.00,In stock (8 available),0,29af1a2566c4e36e
+Music,45.05,45.05,0.00,In stock (8 available),0,39eefec3a8498dde
+Philosophy,47.13,47.13,0.00,In stock (8 available),0,0cf57cb49272fd37
+Default,20.22,20.22,0.00,In stock (8 available),0,bd26e8a79a856c31
+Default,56.48,56.48,0.00,In stock (8 available),0,0ab4b35dcffcffd1
+Nonfiction,44.21,44.21,0.00,In stock (8 available),0,bbf1ea50be8008ab
+Fiction,21.96,21.96,0.00,In stock (8 available),0,0bfdef63285d3019
+Poetry,40.45,40.45,0.00,In stock (8 available),0,b7870fa6dc088fbb
+Art,10.29,10.29,0.00,In stock (8 available),0,8a150fd8ff5d7686
+Default,52.86,52.86,0.00,In stock (8 available),0,d48c1369927ebef1
+Young Adult,55.65,55.65,0.00,In stock (8 available),0,df6a7c43faa6732b
+Default,43.64,43.64,0.00,In stock (8 available),0,e049d44c4f1cf1b2
+Science,28.41,28.41,0.00,In stock (8 available),0,0c11e2d068768dbb
+Default,37.51,37.51,0.00,In stock (8 available),0,4dbd54d9e36c9566
+History,11.45,11.45,0.00,In stock (8 available),0,7f5157bf53065d36
+Nonfiction,19.22,19.22,0.00,In stock (8 available),0,77e9ea355bd8ae57
+Nonfiction,56.91,56.91,0.00,In stock (8 available),0,04e3de7ac35ec5cd
+Nonfiction,55.06,55.06,0.00,In stock (8 available),0,15ebd83e53d0391b
+Nonfiction,13.20,13.20,0.00,In stock (8 available),0,fef91502cbacf23a
+Food and Drink,53.63,53.63,0.00,In stock (8 available),0,b1a227b7609ff263
+History,44.48,44.48,0.00,In stock (8 available),0,f16c2edb2a603f92
+Self Help,12.08,12.08,0.00,In stock (7 available),0,88ec621893e595d0
+Default,22.14,22.14,0.00,In stock (7 available),0,b46d022080543144
+Mystery,25.37,25.37,0.00,In stock (7 available),0,9735c969c652dd89
+Spirituality,46.33,46.33,0.00,In stock (7 available),0,48cb52d78c992487
+Travel,37.33,37.33,0.00,In stock (7 available),0,a94350ee74deaa07
+Humor,25.55,25.55,0.00,In stock (7 available),0,4242cc3d0437db12
+Default,34.72,34.72,0.00,In stock (7 available),0,4a0b78598b42897a
+Childrens,35.96,35.96,0.00,In stock (7 available),0,0ff9d10864db8364
+Art,41.14,41.14,0.00,In stock (7 available),0,9147c5251cc99eb1
+Science,10.01,10.01,0.00,In stock (7 available),0,0345872b14f9e774
+Default,36.05,36.05,0.00,In stock (7 available),0,a8dbf1c6b41b885a
+Default,49.03,49.03,0.00,In stock (7 available),0,f935412970c9f58f
+Add a comment,16.24,16.24,0.00,In stock (7 available),0,47f4fd3e8e1dac05
+Biography,39.55,39.55,0.00,In stock (7 available),0,57f85720e54d6442
+Add a comment,35.67,35.67,0.00,In stock (7 available),0,7a10353c9c54cf7c
+Historical Fiction,16.62,16.62,0.00,In stock (7 available),0,24933c712f0bca2f
+Fiction,42.78,42.78,0.00,In stock (7 available),0,d250657f0ebc5d73
+Mystery,52.30,52.30,0.00,In stock (7 available),0,20789fb17b423c4c
+Art,32.34,32.34,0.00,In stock (7 available),0,4b8fa561a1e52d1c
+Default,33.17,33.17,0.00,In stock (7 available),0,5fbd03b1ac0a0e69
+Add a comment,20.12,20.12,0.00,In stock (7 available),0,ba047a636b7d3793
+Default,20.90,20.90,0.00,In stock (7 available),0,8776181be110838a
+Romance,20.90,20.90,0.00,In stock (7 available),0,bd087cf6a846db75
+Fiction,40.20,40.20,0.00,In stock (7 available),0,7ffebdd1d5148aef
+Childrens,52.87,52.87,0.00,In stock (7 available),0,9639e89d20228e6e
+Business,51.74,51.74,0.00,In stock (7 available),0,8486f61aa81a3daa
+Childrens,34.41,34.41,0.00,In stock (7 available),0,31c56c4d0fe19340
+Childrens,32.38,32.38,0.00,In stock (7 available),0,68008abf6409dfde
+Young Adult,50.35,50.35,0.00,In stock (7 available),0,746029796363aa51
+Food and Drink,11.38,11.38,0.00,In stock (7 available),0,924438fc6cbec836
+Womens Fiction,43.58,43.58,0.00,In stock (7 available),0,725cd8d23d78cdca
+Fiction,49.67,49.67,0.00,In stock (7 available),0,dac4b5847454fd9b
+Christian Fiction,28.77,28.77,0.00,In stock (7 available),0,b6670507e85b30e6
+Default,13.22,13.22,0.00,In stock (7 available),0,40cdcbb7692fd408
+Poetry,51.17,51.17,0.00,In stock (7 available),0,b74ee891e2a6dd69
+Fantasy,39.61,39.61,0.00,In stock (7 available),0,4c82371b8cd02d4d
+Add a comment,57.43,57.43,0.00,In stock (7 available),0,68407606544d6f22
+Food and Drink,46.01,46.01,0.00,In stock (7 available),0,2a9fcb3382d351c8
+Food and Drink,28.25,28.25,0.00,In stock (7 available),0,eff5710404e2ff78
+Add a comment,37.05,37.05,0.00,In stock (7 available),0,c00bc29a678a6efb
+Sequential Art,19.57,19.57,0.00,In stock (7 available),0,de6d7645f192d517
+Nonfiction,45.13,45.13,0.00,In stock (7 available),0,2e40333991f56f45
+Nonfiction,46.64,46.64,0.00,In stock (7 available),0,4e78f06160b717ac
+Fantasy,12.16,12.16,0.00,In stock (7 available),0,4fa75fc6829431ca
+Mystery,20.89,20.89,0.00,In stock (7 available),0,4e980425468708da
+Christian Fiction,17.97,17.97,0.00,In stock (7 available),0,4807043b8218e9ce
+Music,52.60,52.60,0.00,In stock (7 available),0,4781b6bfd6f7a2c5
+Christian,25.77,25.77,0.00,In stock (7 available),0,a322361a37a78d3d
+Biography,48.19,48.19,0.00,In stock (7 available),0,5b546a46a86a9d8c
+Philosophy,29.93,29.93,0.00,In stock (7 available),0,6b52904b2ab91bf6
+Travel,44.34,44.34,0.00,In stock (7 available),0,cc1936a9f4e93477
+History,52.40,52.40,0.00,In stock (7 available),0,6c7fa6844380f50a
+Fantasy,44.81,44.81,0.00,In stock (7 available),0,d1378a0ad06ff979
+Default,57.84,57.84,0.00,In stock (6 available),0,5ba3d703d1ae0c1d
+History,39.67,39.67,0.00,In stock (6 available),0,774fa432bd7d9c47
+Default,55.02,55.02,0.00,In stock (6 available),0,fd364afd082f5446
+Mystery,24.80,24.80,0.00,In stock (6 available),0,2da5edf8b5776c9a
+Nonfiction,59.45,59.45,0.00,In stock (6 available),0,60376aa71be66083
+Default,31.58,31.58,0.00,In stock (6 available),0,2efa5a839e62b1bd
+Add a comment,43.27,43.27,0.00,In stock (6 available),0,d326e189b1210916
+Historical Fiction,37.34,37.34,0.00,In stock (6 available),0,e6635f5b0a2c78db
+Default,17.80,17.80,0.00,In stock (6 available),0,72b5355dda190b6a
+Travel,30.54,30.54,0.00,In stock (6 available),0,48736df57e7bec9f
+Add a comment,18.77,18.77,0.00,In stock (6 available),0,d33824cb93ecab6f
+Add a comment,46.85,46.85,0.00,In stock (6 available),0,2bc80eba94950873
+Historical,15.79,15.79,0.00,In stock (6 available),0,eb7459e0c570251d
+Default,10.27,10.27,0.00,In stock (6 available),0,cb17945cb90b7837
+Poetry,15.42,15.42,0.00,In stock (6 available),0,3d250ab0f12be445
+Food and Drink,59.92,59.92,0.00,In stock (6 available),0,6478ccb4416e6a5d
+Young Adult,50.96,50.96,0.00,In stock (6 available),0,2a1b3d967cda1da2
+Default,30.60,30.60,0.00,In stock (6 available),0,8d8e9f9b8730eb25
+Add a comment,19.27,19.27,0.00,In stock (6 available),0,720c36b2bee4692e
+Default,46.58,46.58,0.00,In stock (6 available),0,6d235933670503d9
+Add a comment,48.51,48.51,0.00,In stock (6 available),0,f38f37ed934d84b2
+Fiction,19.02,19.02,0.00,In stock (6 available),0,7a2b51f69e81c722
+Mystery,38.38,38.38,0.00,In stock (6 available),0,6958de044cb28a84
+Nonfiction,49.98,49.98,0.00,In stock (6 available),0,fe0f34ebed689381
+Self Help,46.49,46.49,0.00,In stock (6 available),0,e792c0969cefe1b8
+Thriller,18.32,18.32,0.00,In stock (6 available),0,012170e4fc87ace0
+Nonfiction,42.14,42.14,0.00,In stock (6 available),0,384c7d41d5ffe9d1
+Add a comment,56.59,56.59,0.00,In stock (6 available),0,56a34d0cec11d6b0
+Sequential Art,20.96,20.96,0.00,In stock (6 available),0,97258f576d4bb672
+Fiction,40.32,40.32,0.00,In stock (6 available),0,4e3b183180e2a992
+Sequential Art,36.39,36.39,0.00,In stock (6 available),0,6e06d0f00f6da20f
+History,58.55,58.55,0.00,In stock (6 available),0,f3c70d296ec796c4
+Food and Drink,39.61,39.61,0.00,In stock (6 available),0,faf841f81c52638b
+Psychology,21.30,21.30,0.00,In stock (6 available),0,46cb43c2ab133ccc
+Travel,56.88,56.88,0.00,In stock (6 available),0,9e60929f521fa280
+Historical Fiction,32.97,32.97,0.00,In stock (5 available),0,2e5b4ff08a75fd02
+Young Adult,47.31,47.31,0.00,In stock (5 available),0,e75f3ae1da1cc652
+Nonfiction,48.67,48.67,0.00,In stock (5 available),0,759ee7d059b1beb8
+Young Adult,41.73,41.73,0.00,In stock (5 available),0,60369d96b7b80869
+Default,53.68,53.68,0.00,In stock (5 available),0,163d89116179c33f
+Young Adult,14.64,14.64,0.00,In stock (5 available),0,3a7d54a264d9f33e
+Music,38.40,38.40,0.00,In stock (5 available),0,bc209a900101f28d
+Classics,15.08,15.08,0.00,In stock (5 available),0,abbb492978ff656d
+Add a comment,30.57,30.57,0.00,In stock (5 available),0,2e4fc5eacceec12c
+Fantasy,57.74,57.74,0.00,In stock (5 available),0,e0b3a679b83caccc
+Food and Drink,11.05,11.05,0.00,In stock (5 available),0,f701fae56b645ef7
+Classics,28.58,28.58,0.00,In stock (5 available),0,93379e3a2072a01b
+History,42.91,42.91,0.00,In stock (5 available),0,0d210d2448c3018f
+Fiction,24.73,24.73,0.00,In stock (5 available),0,dfd9ff1f343cdaff
+History,55.91,55.91,0.00,In stock (5 available),0,c4589ee5977a47be
+Science,13.76,13.76,0.00,In stock (5 available),0,3213b1f13f5f0f7c
+Fiction,45.56,45.56,0.00,In stock (5 available),0,ad84f18659e6bfe2
+Default,47.22,47.22,0.00,In stock (5 available),0,3661360c99719414
+Fantasy,56.00,56.00,0.00,In stock (5 available),0,a2a9f76339d21ab1
+Fiction,44.58,44.58,0.00,In stock (5 available),0,fe7210553d56c097
+Default,34.50,34.50,0.00,In stock (5 available),0,fec06f52054ea900
+Young Adult,11.33,11.33,0.00,In stock (5 available),0,c4182bdb53e2459a
+Poetry,38.77,38.77,0.00,In stock (5 available),0,b228042c088b1913
+Default,11.83,11.83,0.00,In stock (5 available),0,b716233fcb6877e6
+Fantasy,45.51,45.51,0.00,In stock (5 available),0,84126312e2431a09
+Young Adult,41.81,41.81,0.00,In stock (5 available),0,50d5a7b861ed1c54
+Nonfiction,25.15,25.15,0.00,In stock (5 available),0,1dba84766a5e87b8
+Fiction,34.22,34.22,0.00,In stock (5 available),0,84bb29c53592ac40
+Default,16.23,16.23,0.00,In stock (5 available),0,59a8ae019b64f2a7
+Default,11.48,11.48,0.00,In stock (5 available),0,2973d38c2fbd7a5c
+Horror,23.37,23.37,0.00,In stock (5 available),0,e958ae92f328c181
+Science,16.28,16.28,0.00,In stock (5 available),0,6036239d2ab349b7
+Nonfiction,31.63,31.63,0.00,In stock (5 available),0,a4ce39a3720cd679
+Food and Drink,24.91,24.91,0.00,In stock (5 available),0,12a90b90283b2e6d
+Childrens,22.54,22.54,0.00,In stock (5 available),0,81c68492ccd72941
+Young Adult,23.63,23.63,0.00,In stock (5 available),0,5e1a88d248599768
+Academic,13.12,13.12,0.00,In stock (5 available),0,7093cf549cd2e7de
+Fiction,59.98,59.98,0.00,In stock (5 available),0,07e6810fd3236bda
+Thriller,31.49,31.49,0.00,In stock (5 available),0,8dde2ff3f6fcc0a3
+Young Adult,15.52,15.52,0.00,In stock (5 available),0,44f545727e704187
+Young Adult,48.13,48.13,0.00,In stock (5 available),0,45045146dbf7b009
+Default,38.13,38.13,0.00,In stock (5 available),0,7284d85428305f5a
+Default,36.55,36.55,0.00,In stock (5 available),0,d219d4e325e6f204
+Default,23.32,23.32,0.00,In stock (5 available),0,6c49258724f11770
+Sequential Art,16.33,16.33,0.00,In stock (5 available),0,3fd83dcf37bf1bc0
+Science Fiction,32.42,32.42,0.00,In stock (5 available),0,3fc124f59f3068e4
+Default,16.96,16.96,0.00,In stock (5 available),0,630e766f0a1987dd
+Add a comment,22.37,22.37,0.00,In stock (5 available),0,b28c7d07afa7063b
+Add a comment,42.27,42.27,0.00,In stock (5 available),0,75cc85cdbe9ad46b
+Default,38.70,38.70,0.00,In stock (5 available),0,d5ad4c92d8bf26c9
+Horror,35.63,35.63,0.00,In stock (5 available),0,e46b1074b99ac4b6
+Fiction,58.00,58.00,0.00,In stock (5 available),0,94bb629a3f6dd00b
+Sequential Art,52.41,52.41,0.00,In stock (5 available),0,1c0a38899c82b60a
+Nonfiction,32.35,32.35,0.00,In stock (5 available),0,bcf567421c581f0a
+Philosophy,20.75,20.75,0.00,In stock (5 available),0,429b4a811bef386c
+Poetry,17.49,17.49,0.00,In stock (5 available),0,b54d7416bb445989
+Default,34.13,34.13,0.00,In stock (5 available),0,ad5e078beceaeb4a
+Autobiography,58.81,58.81,0.00,In stock (5 available),0,612369a5947a012e
+Young Adult,10.00,10.00,0.00,In stock (5 available),0,f36d24c309e87e5b
+History,51.22,51.22,0.00,In stock (5 available),0,add33db6ff80db24
+Default,58.59,58.59,0.00,In stock (5 available),0,d9290e99f189ce84
+Romance,31.30,31.30,0.00,In stock (5 available),0,cf3b86489890b9f2
+Add a comment,46.42,46.42,0.00,In stock (5 available),0,03cbb67c0f990d87
+Fantasy,17.21,17.21,0.00,In stock (5 available),0,f2c8f4b4c94d5c5c
+Add a comment,10.79,10.79,0.00,In stock (5 available),0,89a89e76f3516357
+Default,52.35,52.35,0.00,In stock (4 available),0,a8f4577a48023344
+Default,27.88,27.88,0.00,In stock (4 available),0,d4de23aa98acc65b
+Classics,50.26,50.26,0.00,In stock (4 available),0,6053ddf69c967d5f
+Romance,59.99,59.99,0.00,In stock (4 available),0,9cc207168a03470d
+Historical Fiction,28.32,28.32,0.00,In stock (4 available),0,011674f4a3834b8d
+Nonfiction,38.71,38.71,0.00,In stock (4 available),0,6a57286a8890d8c5
+Default,29.85,29.85,0.00,In stock (4 available),0,6d2f70d9424f41a1
+Classics,14.82,14.82,0.00,In stock (4 available),0,6587f46697fc4443
+Nonfiction,16.81,16.81,0.00,In stock (4 available),0,45033bdf3d9ed158
+Nonfiction,28.23,28.23,0.00,In stock (4 available),0,c65ee14957c0fa5c
+Fantasy,52.11,52.11,0.00,In stock (4 available),0,ff2dffba388d9922
+Sequential Art,27.88,27.88,0.00,In stock (4 available),0,df53c2948b32bde3
+Thriller,59.71,59.71,0.00,In stock (4 available),0,9c4d061c1e2fe6bf
+Fantasy,46.08,46.08,0.00,In stock (4 available),0,8930013d06942df1
+Womens Fiction,13.73,13.73,0.00,In stock (4 available),0,31f5bbf4974d29c9
+Womens Fiction,48.39,48.39,0.00,In stock (4 available),0,38199c5d7da0c0ef
+Fantasy,49.45,49.45,0.00,In stock (4 available),0,ae884ac655d6ee3e
+Default,19.67,19.67,0.00,In stock (4 available),0,5de4baa88061a77a
+Music,12.36,12.36,0.00,In stock (4 available),0,2ba5ccc84d35006c
+Music,20.02,20.02,0.00,In stock (4 available),0,3a95f5a2df4ff921
+Horror,12.75,12.75,0.00,In stock (4 available),0,869d20b3b8128230
+Horror,47.51,47.51,0.00,In stock (4 available),0,70b585c9d0f15725
+Default,20.44,20.44,0.00,In stock (4 available),0,5212c6acea3359e5
+Horror,34.79,34.79,0.00,In stock (4 available),0,81d4191030b9704b
+Classics,28.07,28.07,0.00,In stock (4 available),0,deda806b68b0aa11
+Horror,25.01,25.01,0.00,In stock (4 available),0,670a2773607d785d
+Default,13.90,13.90,0.00,In stock (4 available),0,ac337893a9fe0085
+Young Adult,24.17,24.17,0.00,In stock (4 available),0,eff24325e0ede639
+Fantasy,31.63,31.63,0.00,In stock (4 available),0,5a6b7155f2797537
+Fantasy,48.75,48.75,0.00,In stock (4 available),0,73f4f87dd936ee5c
+Fantasy,14.74,14.74,0.00,In stock (4 available),0,c7c4f55b7321cba7
+Classics,32.49,32.49,0.00,In stock (4 available),0,23310ce84d3c9f85
+Nonfiction,27.80,27.80,0.00,In stock (4 available),0,ddbc5530d2939d49
+Historical Fiction,26.77,26.77,0.00,In stock (4 available),0,5eff05e59f905a49
+Sequential Art,50.44,50.44,0.00,In stock (4 available),0,8fff1084aa085a13
+Thriller,34.93,34.93,0.00,In stock (4 available),0,ad15a9a139919918
+Romance,12.87,12.87,0.00,In stock (4 available),0,2b69d289279aabfd
+Default,48.94,48.94,0.00,In stock (4 available),0,a2dc754afb69bb32
+Romance,13.38,13.38,0.00,In stock (4 available),0,aaebac5fda798b1b
+Classics,58.63,58.63,0.00,In stock (4 available),0,2798974abc8a58a8
+Womens Fiction,21.94,21.94,0.00,In stock (4 available),0,0812f54c93d726ce
+Fiction,26.58,26.58,0.00,In stock (4 available),0,78a4ac98191ac675
+Classics,57.22,57.22,0.00,In stock (4 available),0,1451b55e5e56bb89
+Romance,56.43,56.43,0.00,In stock (4 available),0,aead11697d14ea36
+Spirituality,55.65,55.65,0.00,In stock (4 available),0,f6ae39568db1130e
+Religion,27.62,27.62,0.00,In stock (4 available),0,d12ca4020c2f602e
+Horror,49.56,49.56,0.00,In stock (4 available),0,6e9403f00acd6752
+Default,34.77,34.77,0.00,In stock (3 available),0,634b7165c96ebb9f
+Classics,17.73,17.73,0.00,In stock (3 available),0,5a7ff9aaa3168878
+Default,21.80,21.80,0.00,In stock (3 available),0,5d55202da0252627
+Default,46.02,46.02,0.00,In stock (3 available),0,d30b9215c72cca87
+Default,18.13,18.13,0.00,In stock (3 available),0,07bb35158d9dd3d2
+Humor,30.89,30.89,0.00,In stock (3 available),0,dab0196cd5fc8e5e
+Nonfiction,31.95,31.95,0.00,In stock (3 available),0,06bab964fd536971
+Contemporary,24.04,24.04,0.00,In stock (3 available),0,be3db344a845580b
+Young Adult,32.36,32.36,0.00,In stock (3 available),0,0e4e2d31c2fb3aad
+Historical Fiction,21.07,21.07,0.00,In stock (3 available),0,7feac4000cbc5859
+Nonfiction,50.66,50.66,0.00,In stock (3 available),0,52aa3d79b1cee455
+Food and Drink,13.66,13.66,0.00,In stock (3 available),0,4672d10b9b1e7a05
+Nonfiction,58.09,58.09,0.00,In stock (3 available),0,b830685072fa871f
+Nonfiction,30.00,30.00,0.00,In stock (3 available),0,599a4f98bb193368
+Young Adult,32.74,32.74,0.00,In stock (3 available),0,61bc8167c9680283
+Default,41.93,41.93,0.00,In stock (3 available),0,b53078de0147f6bf
+Womens Fiction,42.80,42.80,0.00,In stock (3 available),0,8ebad30219b8679c
+Nonfiction,53.51,53.51,0.00,In stock (3 available),0,2173a2ce35f6ace1
+Fiction,23.21,23.21,0.00,In stock (3 available),0,57f755143ee96fd4
+Psychology,21.14,21.14,0.00,In stock (3 available),0,719d72f3ee512dc6
+Childrens,56.07,56.07,0.00,In stock (3 available),0,75fed6a47f69859d
+Sequential Art,14.41,14.41,0.00,In stock (3 available),0,a33ed2e6068df53e
+Womens Fiction,45.75,45.75,0.00,In stock (3 available),0,813cff2aefa5d1f0
+Thriller,15.77,15.77,0.00,In stock (3 available),0,2b685187f55c5d31
+Add a comment,10.02,10.02,0.00,In stock (3 available),0,224fa77d4b248046
+Childrens,48.77,48.77,0.00,In stock (3 available),0,3d15714d4d3d15dd
+Horror,57.86,57.86,0.00,In stock (3 available),0,49f24193f0b961e6
+Food and Drink,23.59,23.59,0.00,In stock (3 available),0,742702d662a71410
+Mystery,23.05,23.05,0.00,In stock (3 available),0,f06039c29b5891fa
+Sequential Art,55.55,55.55,0.00,In stock (3 available),0,91eb9605998a7c03
+Fantasy,58.64,58.64,0.00,In stock (3 available),0,322a9e34d87f54b1
+Travel,23.21,23.21,0.00,In stock (3 available),0,366a236aa1ea6f07
+Biography,42.57,42.57,0.00,In stock (3 available),0,1a5044d233936b1a
+Science Fiction,10.92,10.92,0.00,In stock (3 available),0,0e92ccf1bd39e68f
+Add a comment,34.77,34.77,0.00,In stock (3 available),0,e2d47e82c50d41d9
+Historical Fiction,35.66,35.66,0.00,In stock (3 available),0,3c456328b04a8ee8
+Add a comment,37.19,37.19,0.00,In stock (3 available),0,0e7beedf0ee9380c
+Romance,12.25,12.25,0.00,In stock (3 available),0,969f6c7e86554814
+Classics,29.70,29.70,0.00,In stock (3 available),0,b9f6305a3d650e2c
+Default,36.80,36.80,0.00,In stock (3 available),0,fa26798728f5208f
+Romance,45.43,45.43,0.00,In stock (3 available),0,ee441c8e027caa66
+Fiction,26.26,26.26,0.00,In stock (3 available),0,29d6d87f3418638b
+Young Adult,44.92,44.92,0.00,In stock (3 available),0,3e42ac0f4d43320f
+Womens Fiction,52.53,52.53,0.00,In stock (3 available),0,6263c1d2997b8ce0
+Nonfiction,37.25,37.25,0.00,In stock (3 available),0,0baf71623648413a
+Default,20.93,20.93,0.00,In stock (3 available),0,4266f48a0aa1c37d
+Default,58.09,58.09,0.00,In stock (3 available),0,36c15687f5ab0f7c
+Childrens,43.59,43.59,0.00,In stock (3 available),0,cf2f27fdf94ba20e
+Business,33.92,33.92,0.00,In stock (3 available),0,70c7c3ca7f9b2728
+Historical Fiction,55.55,55.55,0.00,In stock (3 available),0,476c7972e9b41891
+Young Adult,29.64,29.64,0.00,In stock (3 available),0,35e69a79d2b1e804
+Fiction,27.41,27.41,0.00,In stock (3 available),0,554e9e2d532b3a87
+Fiction,52.51,52.51,0.00,In stock (3 available),0,ff6bb30dd0c482a6
+Add a comment,47.80,47.80,0.00,In stock (3 available),0,a8b0ea6490bc818f
+History,14.54,14.54,0.00,In stock (3 available),0,b5da59dd177eb36b
+Historical Fiction,49.53,49.53,0.00,In stock (3 available),0,4a0a276409968a73
+Default,43.58,43.58,0.00,In stock (3 available),0,c88422d8959260ab
+Default,12.30,12.30,0.00,In stock (3 available),0,e2dac1f4739e0bd5
+Horror,49.47,49.47,0.00,In stock (3 available),0,92dcc54a27107a37
+Default,22.14,22.14,0.00,In stock (3 available),0,bfa9cb304075d3e8
+Add a comment,57.48,57.48,0.00,In stock (3 available),0,8f5d16a5a9bd58b2
+Mystery,43.45,43.45,0.00,In stock (3 available),0,dd003e904727281a
+Add a comment,22.13,22.13,0.00,In stock (3 available),0,b3f2bc2cefb35f05
+Science,13.03,13.03,0.00,In stock (3 available),0,c6bf14cb901c63ac
+Science,57.35,57.35,0.00,In stock (3 available),0,63c0826ef59eae66
+Womens Fiction,44.29,44.29,0.00,In stock (3 available),0,a6ab0cb7106a67f2
+Default,52.25,52.25,0.00,In stock (3 available),0,f51062bf579507d9
+Childrens,26.33,26.33,0.00,In stock (3 available),0,b22362b434e8ee62
+Fiction,22.96,22.96,0.00,In stock (3 available),0,dabf11918b48b40c
+Mystery,19.21,19.21,0.00,In stock (3 available),0,1be6d3b121865edb
+Classics,26.78,26.78,0.00,In stock (3 available),0,cad70d6ffd53912f
+Add a comment,41.32,41.32,0.00,In stock (3 available),0,23707d3ddf14a999
+Add a comment,24.55,24.55,0.00,In stock (3 available),0,487449f4f6322f0f
+Childrens,16.26,16.26,0.00,In stock (3 available),0,b7f475238ed50429
+Add a comment,47.84,47.84,0.00,In stock (3 available),0,970bd3316219e7dc
+Default,53.49,53.49,0.00,In stock (3 available),0,a75e274c8814b539
+Sports and Games,44.84,44.84,0.00,In stock (3 available),0,08decd9664e5d56e
+Add a comment,53.71,53.71,0.00,In stock (3 available),0,cd3dcd83bb002e78
+Default,23.43,23.43,0.00,In stock (3 available),0,b04a6a0db525857d
+Food and Drink,34.32,34.32,0.00,In stock (3 available),0,311634df10651e05
+Fiction,22.10,22.10,0.00,In stock (3 available),0,2858ac90c4758e1f
+Science,25.83,25.83,0.00,In stock (3 available),0,61002f3b7ba5d780
+Nonfiction,36.74,36.74,0.00,In stock (3 available),0,a11ae5f07572ef49
+Nonfiction,49.51,49.51,0.00,In stock (3 available),0,f08667e4c0458f37
+Womens Fiction,48.96,48.96,0.00,In stock (3 available),0,ac27ab4bcd9c492e
+Womens Fiction,54.62,54.62,0.00,In stock (3 available),0,3fc9d51d1c4d6ba7
+Fantasy,24.72,24.72,0.00,In stock (3 available),0,feaaae90514eb2ac
+Default,46.45,46.45,0.00,In stock (3 available),0,c57d3c96af23c297
+Add a comment,52.33,52.33,0.00,In stock (3 available),0,07806456878931bc
+Science,30.60,30.60,0.00,In stock (3 available),0,281a244ce1954711
+Young Adult,14.57,14.57,0.00,In stock (3 available),0,510832818edb6fbc
+Add a comment,46.29,46.29,0.00,In stock (3 available),0,5b2cd5b31a510848
+Sequential Art,21.57,21.57,0.00,In stock (3 available),0,7b870bf85d01c2dc
+Autobiography,12.91,12.91,0.00,In stock (3 available),0,28921443f052bea6
+Add a comment,50.11,50.11,0.00,In stock (3 available),0,b4f5672f68ec3a83
+Nonfiction,41.67,41.67,0.00,In stock (3 available),0,89cad3f37c9ce226
+Business,44.88,44.88,0.00,In stock (3 available),0,8e9dd8431170c09e
+Romance,11.10,11.10,0.00,In stock (3 available),0,ecdf73ee66c33b17
+Childrens,28.54,28.54,0.00,In stock (3 available),0,4c8ece50736f9e88
+Science Fiction,19.07,19.07,0.00,In stock (3 available),0,2ef5dc7e278e562a
+Default,43.55,43.55,0.00,In stock (3 available),0,3c565df219ba3274
+Sequential Art,43.63,43.63,0.00,In stock (3 available),0,9707989a439757b4
+Sequential Art,39.13,39.13,0.00,In stock (3 available),0,cb62418129b864a3
+Default,56.68,56.68,0.00,In stock (3 available),0,8e2dfd6bcf48e1e6
+Nonfiction,14.16,14.16,0.00,In stock (3 available),0,09a7b0b566ad6225
+Sequential Art,31.45,31.45,0.00,In stock (3 available),0,c59283b05905c853
+Default,24.61,24.61,0.00,In stock (3 available),0,8378c899988905ee
+Default,32.87,32.87,0.00,In stock (3 available),0,3250650a5c4e6f07
+Nonfiction,40.17,40.17,0.00,In stock (3 available),0,cb65e49993db9a93
+Nonfiction,13.51,13.51,0.00,In stock (3 available),0,c4d9fce9eff3b8ba
+Travel,38.95,38.95,0.00,In stock (3 available),0,747cf7fca2ccdbd4
+Humor,31.69,31.69,0.00,In stock (3 available),0,54aeeb4610d3ae08
+Default,29.40,29.40,0.00,In stock (3 available),0,7ce5a92baabb6bc0
+Nonfiction,57.83,57.83,0.00,In stock (3 available),0,7980fa06f2b704d8
+Fantasy,55.46,55.46,0.00,In stock (3 available),0,e9056f9b5a40a301
+Autobiography,57.60,57.60,0.00,In stock (3 available),0,abc4a7ee16c21088
+Add a comment,34.98,34.98,0.00,In stock (3 available),0,546da23278482b0a
+Autobiography,11.87,11.87,0.00,In stock (3 available),0,0dcadb06206abd3c
+Fiction,12.47,12.47,0.00,In stock (3 available),0,4ef75307fb64e2ad
+Science Fiction,33.26,33.26,0.00,In stock (3 available),0,4b3f4f151c99f472
+Autobiography,59.04,59.04,0.00,In stock (3 available),0,c53d9fefcda371e9
+Default,26.13,26.13,0.00,In stock (3 available),0,4ec53ff7e2263f32
+Nonfiction,22.20,22.20,0.00,In stock (3 available),0,1de75f05d57bfc10
+Nonfiction,45.11,45.11,0.00,In stock (3 available),0,1246e4ffeb5ac4ea
+Young Adult,43.69,43.69,0.00,In stock (3 available),0,0ce8075fab4a2b5b
+Default,25.02,25.02,0.00,In stock (3 available),0,d5e1a9bfe22bbf9f
+Humor,55.50,55.50,0.00,In stock (3 available),0,190fbebbf798c31a
+Young Adult,53.04,53.04,0.00,In stock (3 available),0,16e843e6b853cc2f
+Fiction,44.97,44.97,0.00,In stock (3 available),0,a0dd11f6abc421ec
+Nonfiction,42.38,42.38,0.00,In stock (3 available),0,d4a29356fc992879
+Default,20.11,20.11,0.00,In stock (3 available),0,034829ffdd0a0aea
+Nonfiction,56.70,56.70,0.00,In stock (3 available),0,a7c3f1010d64799a
+Fiction,41.00,41.00,0.00,In stock (3 available),0,6c4646d90b60a56c
+Nonfiction,28.85,28.85,0.00,In stock (3 available),0,d8292cd5f1aca291
+Christian Fiction,49.97,49.97,0.00,In stock (3 available),0,61569d12d4ae7161
+Womens Fiction,19.69,19.69,0.00,In stock (3 available),0,6b32b561dab8036c
+Nonfiction,28.88,28.88,0.00,In stock (3 available),0,8010c7c148057fd3
+Food and Drink,33.14,33.14,0.00,In stock (3 available),0,6c4d17a46cac8787
+History,43.70,43.70,0.00,In stock (3 available),0,1812b8f5641287e3
+Horror,54.89,54.89,0.00,In stock (3 available),0,557c03c284be1bf2
+Childrens,37.52,37.52,0.00,In stock (3 available),0,cc1ac978a6835ef6
+Humor,51.07,51.07,0.00,In stock (3 available),0,0cb4856be3694a57
+Fantasy,44.07,44.07,0.00,In stock (3 available),0,b003f8bb02f76dc5
+Childrens,10.79,10.79,0.00,In stock (3 available),0,621e2c310cec8d32
+Sequential Art,42.72,42.72,0.00,In stock (3 available),0,4f6985aca357ae09
+Nonfiction,26.66,26.66,0.00,In stock (3 available),0,c300cc9326592b65
+Default,37.60,37.60,0.00,In stock (3 available),0,d5c588b6f9c015e4
+Young Adult,42.21,42.21,0.00,In stock (3 available),0,984b3b6e7479b571
+Historical Fiction,46.83,46.83,0.00,In stock (3 available),0,41fc5dce044f16f5
+Sequential Art,45.17,45.17,0.00,In stock (3 available),0,d5f5a122a593b580
+Sports and Games,51.22,51.22,0.00,In stock (3 available),0,a9aa3ed5b316470b
+Add a comment,21.28,21.28,0.00,In stock (3 available),0,2ed3a794a70aa85f
+Adult Fiction,15.36,15.36,0.00,In stock (3 available),0,ed813a848580ba50
+Default,38.62,38.62,0.00,In stock (3 available),0,147019cae600694e
+Mystery,25.40,25.40,0.00,In stock (3 available),0,588ba85ff11a3263
+Fantasy,43.87,43.87,0.00,In stock (3 available),0,b843f52a986a2914
+Default,18.74,18.74,0.00,In stock (3 available),0,73f71f9556442117
+Science Fiction,54.86,54.86,0.00,In stock (3 available),0,36d5884d44484277
+Default,52.62,52.62,0.00,In stock (3 available),0,a7ec599c1a547746
+Science Fiction,51.48,51.48,0.00,In stock (3 available),0,98330e431e56a9ea
+Nonfiction,15.28,15.28,0.00,In stock (3 available),0,81372abc86f65c79
+Default,39.24,39.24,0.00,In stock (3 available),0,04d858cdeeee0da4
+Default,17.81,17.81,0.00,In stock (3 available),0,d234ddecef49ef4e
+Fantasy,56.02,56.02,0.00,In stock (3 available),0,468bd274ac084bb9
+Default,23.90,23.90,0.00,In stock (3 available),0,66937c669c4da072
+Fiction,49.13,49.13,0.00,In stock (3 available),0,c9782ad2a0ed9331
+Childrens,10.62,10.62,0.00,In stock (3 available),0,157f693d9e600ccc
+Add a comment,36.17,36.17,0.00,In stock (3 available),0,dbe33cf29ef1623d
+Psychology,59.95,59.95,0.00,In stock (3 available),0,396385e3de5d18c3
+Young Adult,26.09,26.09,0.00,In stock (3 available),0,7e9579921e5407cb
+Parenting,37.35,37.35,0.00,In stock (3 available),0,ef49db2aaa9bb547
+Mystery,24.72,24.72,0.00,In stock (3 available),0,b461cf238506c5b8
+Default,35.28,35.28,0.00,In stock (3 available),0,bbfc4a3b7b6c94a0
+Nonfiction,51.32,51.32,0.00,In stock (3 available),0,fd2337c1b73b686e
+Young Adult,21.12,21.12,0.00,In stock (3 available),0,8e0bc2fe4e7d35b5
+Nonfiction,27.35,27.35,0.00,In stock (3 available),0,e256de8aa0c2115f
+Nonfiction,21.74,21.74,0.00,In stock (3 available),0,0bbc48294707ba96
+Nonfiction,40.87,40.87,0.00,In stock (3 available),0,860318b8e244f39c
+Sequential Art,49.31,49.31,0.00,In stock (3 available),0,15f415d436888b2d
+Fiction,22.11,22.11,0.00,In stock (3 available),0,d3f9c4539c0caa64
+Historical Fiction,20.79,20.79,0.00,In stock (3 available),0,155e42df837ee5ff
+Romance,27.41,27.41,0.00,In stock (3 available),0,67dea6c75d6a1075
+Classics,38.35,38.35,0.00,In stock (3 available),0,3fb69f34e178d494
+Default,21.55,21.55,0.00,In stock (3 available),0,5439bae708bca198
+Sequential Art,38.02,38.02,0.00,In stock (3 available),0,1d89a2aa9f6ce50f
+Fantasy,22.06,22.06,0.00,In stock (3 available),0,5d22e2a46604b6e7
+Childrens,10.66,10.66,0.00,In stock (3 available),0,ef9c4f2465513956
+Nonfiction,56.58,56.58,0.00,In stock (3 available),0,da0349a87c8caa2f
+Young Adult,36.83,36.83,0.00,In stock (3 available),0,7bf87402413c27ff
+Classics,35.01,35.01,0.00,In stock (3 available),0,cfe350b20d23b02b
+Nonfiction,30.48,30.48,0.00,In stock (3 available),0,bcee4f289ff6699c
+Default,14.08,14.08,0.00,In stock (3 available),0,5dbd6ec4e154ad2f
+Fantasy,31.22,31.22,0.00,In stock (3 available),0,87beabf664115d79
+Autobiography,54.29,54.29,0.00,In stock (3 available),0,c9770bb1d5a492a0
+Psychology,31.04,31.04,0.00,In stock (3 available),0,f5873c8fc7760000
+Add a comment,50.96,50.96,0.00,In stock (3 available),0,165affa7adb5eded
+Nonfiction,11.89,11.89,0.00,In stock (2 available),0,d2185b65af52d68c
+Add a comment,31.38,31.38,0.00,In stock (2 available),0,4130678275eb7c8c
+Sequential Art,54.81,54.81,0.00,In stock (2 available),0,276dc716b1da8899
+Fiction,16.78,16.78,0.00,In stock (2 available),0,f3c76b53b239f511
+Sports and Games,24.42,24.42,0.00,In stock (2 available),0,ce42e3de94226b2b
+Sequential Art,11.75,11.75,0.00,In stock (2 available),0,9189fd009df41d0e
+Philosophy,20.02,20.02,0.00,In stock (2 available),0,b0e479be03911916
+Young Adult,12.86,12.86,0.00,In stock (2 available),0,6fa3ea52c8e31e06
+Music,31.58,31.58,0.00,In stock (2 available),0,637e5a45062aa548
+Nonfiction,34.00,34.00,0.00,In stock (2 available),0,fb495f9f9015a772
+Nonfiction,57.42,57.42,0.00,In stock (2 available),0,b6d3f4f4ee1f6069
+Young Adult,53.47,53.47,0.00,In stock (2 available),0,97b8f130d32e9f4e
+Sequential Art,11.64,11.64,0.00,In stock (2 available),0,c0db71f6bb14db11
+Childrens,52.88,52.88,0.00,In stock (2 available),0,d7b463918d3b8c39
+Sequential Art,18.51,18.51,0.00,In stock (1 available),0,09d26b5f819c6a36
+Historical Fiction,41.32,41.32,0.00,In stock (1 available),0,8ceb5c6aed2c5f8b
+Romance,39.77,39.77,0.00,In stock (1 available),0,def389ddfda6991b
+Fiction,51.96,51.96,0.00,In stock (1 available),0,c5f91eb481427dc5
+Art,39.51,39.51,0.00,In stock (1 available),0,66a4e422b212726a
+Paranormal,15.40,15.40,0.00,In stock (1 available),0,e7e87087b1a44711
+Fantasy,53.82,53.82,0.00,In stock (1 available),0,dab5e75d1339706a
+Poetry,30.95,30.95,0.00,In stock (1 available),0,e63c3f25338baf9a
+Nonfiction,57.82,57.82,0.00,In stock (1 available),0,0268f149d014b389
+Science Fiction,44.18,44.18,0.00,In stock (1 available),0,460f97a346b44bac
+Romance,48.71,48.71,0.00,In stock (1 available),0,d6d98d3508c30f57
+Default,19.69,19.69,0.00,In stock (1 available),0,9c96cd1329fbd82d
+Sequential Art,36.52,36.52,0.00,In stock (1 available),0,dac9d1e654fac737
+Nonfiction,41.56,41.56,0.00,In stock (1 available),0,6514add13c82b115
+Classics,43.19,43.19,0.00,In stock (1 available),0,32d035df92ab9080
+Fiction,12.34,12.34,0.00,In stock (1 available),0,b78deb463531d078
+Fantasy,36.25,36.25,0.00,In stock (1 available),0,9e9932ae1a7d0943
+Science,29.45,29.45,0.00,In stock (1 available),0,6f2c0a9adbb2bca9
+Historical Fiction,34.56,34.56,0.00,In stock (1 available),0,38f776ab9118aed7
+Sequential Art,54.12,54.12,0.00,In stock (1 available),0,5faefdc861684eb1
+Add a comment,33.78,33.78,0.00,In stock (1 available),0,0ec9d2b018fb10d8
+Add a comment,29.64,29.64,0.00,In stock (1 available),0,f0512adadffd2480
+Mystery,57.70,57.70,0.00,In stock (1 available),0,b0913e67d38d5ed5
+Philosophy,36.34,36.34,0.00,In stock (1 available),0,5c10b64db3e4f228
+Default,50.59,50.59,0.00,In stock (1 available),0,c8614adb1a90b027
+Fantasy,29.38,29.38,0.00,In stock (1 available),0,c40b70e0f6d80189
+Classics,45.42,45.42,0.00,In stock (1 available),0,1aeca7d078d57deb
+Add a comment,54.43,54.43,0.00,In stock (1 available),0,04e43893e32f9d29
+Science Fiction,36.26,36.26,0.00,In stock (1 available),0,16c71736dae78764
+Add a comment,16.16,16.16,0.00,In stock (1 available),0,86d8bd7afa5b51b3
+New Adult,36.29,36.29,0.00,In stock (1 available),0,6e473eff459e809f
+Young Adult,27.89,27.89,0.00,In stock (1 available),0,fff8a057a40c4a60
+Mystery,12.29,12.29,0.00,In stock (1 available),0,4280ac3eab57aa5d
+Mystery,15.85,15.85,0.00,In stock (1 available),0,ee61197edb882599
+Nonfiction,14.40,14.40,0.00,In stock (1 available),0,09659d1639a1f978
+Womens Fiction,19.18,19.18,0.00,In stock (1 available),0,29fc016c459aeb14
+Sequential Art,10.64,10.64,0.00,In stock (1 available),0,3301af038a720587
+Add a comment,14.76,14.76,0.00,In stock (1 available),0,18b4545a5ed15581
+Religion,57.49,57.49,0.00,In stock (1 available),0,f3a0b8c835129558
+Fiction,30.66,30.66,0.00,In stock (1 available),0,dfb0849016bc122c
+Young Adult,40.83,40.83,0.00,In stock (1 available),0,5bc1fbccfbf2355c
+Default,18.88,18.88,0.00,In stock (1 available),0,a7eef9d6795422c1
+Historical Fiction,25.83,25.83,0.00,In stock (1 available),0,e25164e5b3fe208b
+Sequential Art,42.12,42.12,0.00,In stock (1 available),0,2ac720f76384c57e
+Fantasy,13.33,13.33,0.00,In stock (1 available),0,3a9a7c5895e82646
+Default,42.40,42.40,0.00,In stock (1 available),0,9ed7090d8fa690b0
+New Adult,58.35,58.35,0.00,In stock (1 available),0,c068c013d6921fea
+Fantasy,21.72,21.72,0.00,In stock (1 available),0,229cd6564bf0dce4
+Sports and Games,44.91,44.91,0.00,In stock (1 available),0,132adf7335bb384a
+Classics,37.46,37.46,0.00,In stock (1 available),0,35e44170702139a4
+Sequential Art,28.48,28.48,0.00,In stock (1 available),0,4f64568dfefa3ce7
+Romance,28.34,28.34,0.00,In stock (1 available),0,9efb397067eb7e8a
+Sequential Art,46.96,46.96,0.00,In stock (1 available),0,3cdca3b4a93980f5
+Default,24.96,24.96,0.00,In stock (1 available),0,849db7ab7f4a640c
+Sequential Art,21.71,21.71,0.00,In stock (1 available),0,bcbcbcf0f6ed196f
+Sequential Art,29.87,29.87,0.00,In stock (1 available),0,326825e02a198cf6
+Fantasy,28.99,28.99,0.00,In stock (1 available),0,8932e5c12f12ffed
+Fantasy,52.94,52.94,0.00,In stock (1 available),0,7ea31f38675b91c1
+Default,32.36,32.36,0.00,In stock (1 available),0,9ff997ab15713e53
+Music,55.66,55.66,0.00,In stock (1 available),0,a1985630339f4b3d
+New Adult,39.45,39.45,0.00,In stock (1 available),0,b6f1cfadc4dd79d4
+Classics,47.11,47.11,0.00,In stock (1 available),0,39592d9d72e717c4
+Fantasy,58.75,58.75,0.00,In stock (1 available),0,63e20a0f98218a87
+Romance,38.92,38.92,0.00,In stock (1 available),0,fd78f89878479f56
+Sequential Art,39.39,39.39,0.00,In stock (1 available),0,35a60467893aa168
+Philosophy,25.89,25.89,0.00,In stock (1 available),0,4f19709e47883df5
+Childrens,28.34,28.34,0.00,In stock (1 available),0,1053fb7ee17a1f33
+Historical Fiction,27.70,27.70,0.00,In stock (1 available),0,d510567580c8be52
+Add a comment,24.89,24.89,0.00,In stock (1 available),0,71a6471bbdac21d9
+Romance,58.99,58.99,0.00,In stock (1 available),0,6e712ea24e77bd96
+Fiction,57.20,57.20,0.00,In stock (1 available),0,06f6a57a6d532844
+Default,38.43,38.43,0.00,In stock (1 available),0,8d390a1fc3133d06
+Romance,34.74,34.74,0.00,In stock (1 available),0,f28f7299d38c0932
+Sports and Games,40.44,40.44,0.00,In stock (1 available),0,3455b45888fb5053
+Sequential Art,45.24,45.24,0.00,In stock (1 available),0,6fe02600f322a0a9
+Science Fiction,34.96,34.96,0.00,In stock (1 available),0,6717a70913b3db79
+Sequential Art,56.76,56.76,0.00,In stock (1 available),0,eb0fe24bbc845ecc
+Sequential Art,40.28,40.28,0.00,In stock (1 available),0,72e6fbf4f6382557
+Default,38.00,38.00,0.00,In stock (1 available),0,a492f49a3e2b6a71
+Music,28.80,28.80,0.00,In stock (1 available),0,e564c3f1a93ccf2e
+Romance,39.24,39.24,0.00,In stock (1 available),0,6390772a3094939d
+Classics,32.93,32.93,0.00,In stock (1 available),0,2e69730561ed70ad
+Nonfiction,51.32,51.32,0.00,In stock (1 available),0,df56868afd166557
+Romance,47.09,47.09,0.00,In stock (1 available),0,0072b94dfa30608e
+Religion,28.42,28.42,0.00,In stock (1 available),0,a812f6969ddf3e39
+Childrens,22.85,22.85,0.00,In stock (1 available),0,1774749f2cee292f
+Romance,41.24,41.24,0.00,In stock (1 available),0,a96404cb928895f3
+Fiction,39.07,39.07,0.00,In stock (1 available),0,230ac636ea0ea415
+Womens Fiction,29.82,29.82,0.00,In stock (1 available),0,a2b4b685dfa94733
+Romance,37.26,37.26,0.00,In stock (1 available),0,abc0b15f2c907ff0
+Mystery,20.30,20.30,0.00,In stock (1 available),0,95cdfd514098c38b
+Sequential Art,34.65,34.65,0.00,In stock (1 available),0,099fae4a0705d63b
+Philosophy,43.38,43.38,0.00,In stock (1 available),0,08672cd59171d5e4
+Classics,55.53,55.53,0.00,In stock (1 available),0,cd2a2a70dd5d176d
+Sequential Art,57.06,57.06,0.00,In stock (1 available),0,bfd5e1701c862ac3
+Historical Fiction,16.97,16.97,0.00,In stock (1 available),0,19fec36a1dfb4c16
+Mystery,53.98,53.98,0.00,In stock (1 available),0,f684a82adc49f011
+Travel,26.08,26.08,0.00,In stock (1 available),0,228ba5e7577e1d49
